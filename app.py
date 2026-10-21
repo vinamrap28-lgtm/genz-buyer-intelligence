@@ -181,4 +181,29 @@ def builder_view():
         st.markdown("Buyer data is **synthetic**; Personas, Move-In Meter and Home Match Score are **Python-derived** fields.")
 
 
-buyer_view() if mode == "Buyer view" else builder_view()
+def builder_gate():
+    if st.session_state.get("builder_ok"):
+        return True
+    try:
+        secret = st.secrets["BUILDER_PASSWORD"]
+    except Exception:
+        secret = None
+    st.title("Builder view 🔒")
+    if not secret:
+        st.error("Password not configured.")
+        return False
+    pwd = st.text_input("Password", type="password")
+    if st.button("Unlock"):
+        if pwd == secret:
+            st.session_state["builder_ok"] = True
+            st.rerun()
+        else:
+            st.error("Wrong password")
+    return False
+
+
+if mode == "Buyer view":
+    buyer_view()
+elif builder_gate():
+    builder_view()
+
