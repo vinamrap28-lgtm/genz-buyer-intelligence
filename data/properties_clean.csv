@@ -1,0 +1,313 @@
+property_id,project_name,city,locality,property_type,bhk,area_sqft,possession_status,possession_months,price_lakh,price_band,price_per_sqft,amenity_count,amenities
+P0001,Palm Terraces Kondapur,Hyderabad,Kondapur,Apartment,3.0,1469,Under Construction,29,119.0,Premium (100-200L),8101.0,1,Swimming Pool
+P0002,Pinnacle Park Whitefield,Bengaluru,Whitefield,Apartment,2.0,913,Under Construction,14,86.0,Mid (60-100L),9419.0,4,Co-working;Green Area;Gym;WFH Space
+P0003,Orchid Greens Kondapur,Hyderabad,Kondapur,Builder Floor,4.0,2219,Under Construction,27,202.99999999999997,Luxury (200L+),9148.0,4,Green Area;Gym;Pet Friendly;WFH Space
+P0004,The Meridian Sector,Noida,Sector 94,Apartment,2.0,876,Under Construction,35,90.0,Mid (60-100L),10274.0,2,Green Area;Pet Friendly
+P0005,Green Nest Kondapur,Hyderabad,Kondapur,Builder Floor,2.0,1095,Ready to Move,0,101.0,Premium (100-200L),9224.0,3,Green Area;Gym;Swimming Pool
+P0006,Pinnacle Park New,Gurugram,New Gurgaon,Apartment,3.0,1643,Under Construction,9,144.0,Premium (100-200L),8764.0,3,Clubhouse;Pet Friendly;WFH Space
+P0007,Urban Haven Sarjapur,Bengaluru,Sarjapur Road,Apartment,3.0,1537,New Launch,24,125.0,Premium (100-200L),8133.0,5,Clubhouse;EV Charging;Green Area;Pet Friendly;WFH Space
+P0008,Harmony Homes New,Gurugram,New Gurgaon,Apartment,2.0,948,Ready to Move,0,79.0,Mid (60-100L),8333.0,3,Co-working;Pet Friendly;Swimming Pool
+P0009,The Meridian Sector,Gurugram,Sector 65,Apartment,3.0,1295,Ready to Move,0,115.99999999999999,Premium (100-200L),8958.0,3,Gym;Pet Friendly;Swimming Pool
+P0010,The Meridian Greater,Noida,Greater Noida West,Apartment,2.0,1070,Under Construction,34,50.0,Affordable (<60L),4673.0,1,Green Area
+P0011,Urban Haven Navi,Mumbai,Navi Mumbai,Apartment,3.0,1380,Under Construction,27,154.0,Premium (100-200L),11159.0,2,Pet Friendly;Swimming Pool
+P0012,Pinnacle Park Sector,Noida,Sector 94,Builder Floor,2.0,1052,Under Construction,24,120.0,Premium (100-200L),11407.0,3,Clubhouse;Green Area;Pet Friendly
+P0014,The Meridian Sohna,Gurugram,Sohna Road,Builder Floor,4.0,2276,Under Construction,32,149.0,Premium (100-200L),6547.0,7,Clubhouse;Co-working;EV Charging;Green Area;Gym;Swimming Pool;WFH Space
+P0015,Serene Towers Dwarka,Gurugram,Dwarka Expressway,Apartment,3.0,1663,Under Construction,14,190.0,Premium (100-200L),11425.0,2,Co-working;Swimming Pool
+P0016,Lakeview Heights Kondapur,Hyderabad,Kondapur,Apartment,1.0,615,Ready to Move,0,49.0,Affordable (<60L),7967.0,1,EV Charging
+P0017,Lakeview Heights Miyapur,Hyderabad,Miyapur,Apartment,2.0,920,Ready to Move,0,57.0,Affordable (<60L),6196.0,3,Clubhouse;EV Charging;Swimming Pool
+P0018,Zenith Square Navi,Mumbai,Navi Mumbai,Builder Floor,3.0,1295,Ready to Move,0,159.0,Premium (100-200L),12278.0,4,Clubhouse;Green Area;Pet Friendly;WFH Space
+P0019,Lakeview Heights Gachibowli,Hyderabad,Gachibowli,Apartment,2.0,851,Ready to Move,0,75.0,Mid (60-100L),8813.0,5,Co-working;Gym;Pet Friendly;Swimming Pool;WFH Space
+P0020,Zenith Square Kokapet,Hyderabad,Kokapet,Apartment,4.0,2349,Ready to Move,0,233.0,Luxury (200L+),9919.0,7,Clubhouse;Co-working;EV Charging;Gym;Pet Friendly;Swimming Pool;WFH Space
+P0021,Lakeview Heights Baner,Pune,Baner,Apartment,3.0,1662,New Launch,37,216.0,Luxury (200L+),12996.0,4,Green Area;Gym;Swimming Pool;WFH Space
+P0022,The Meridian Navi,Mumbai,Navi Mumbai,Apartment,3.0,1262,Under Construction,34,134.0,Premium (100-200L),10618.0,4,EV Charging;Green Area;Pet Friendly;WFH Space
+P0023,Pinnacle Park Kokapet,Hyderabad,Kokapet,Builder Floor,1.0,625,Under Construction,29,72.0,Mid (60-100L),11520.0,1,WFH Space
+P0024,Urban Haven Miyapur,Hyderabad,Miyapur,Apartment,2.0,1061,Ready to Move,0,64.0,Mid (60-100L),6032.0,3,Clubhouse;Green Area;Swimming Pool
+P0025,Pinnacle Park Miyapur,Hyderabad,Miyapur,Apartment,1.0,659,New Launch,27,41.0,Affordable (<60L),6222.0,3,Green Area;Gym;Swimming Pool
+P0026,Orchid Greens Sector,Noida,Sector 150,Apartment,2.0,1009,Under Construction,30,69.0,Mid (60-100L),6838.0,3,EV Charging;Swimming Pool;WFH Space
+P0027,Orchid Greens Sector,Noida,Sector 94,Builder Floor,3.0,1502,Ready to Move,0,143.0,Premium (100-200L),9521.0,3,Clubhouse;Gym;Swimming Pool
+P0028,Lakeview Heights Electronic,Bengaluru,Electronic City,Builder Floor,1.0,595,New Launch,46,32.0,Affordable (<60L),5378.0,3,Clubhouse;Co-working;WFH Space
+P0029,Serene Towers Miyapur,Hyderabad,Miyapur,Apartment,3.0,1558,Ready to Move,0,97.0,Mid (60-100L),6226.0,3,Clubhouse;Co-working;EV Charging
+P0030,Serene Towers Greater,Noida,Greater Noida West,Apartment,1.0,575,Ready to Move,0,28.0,Affordable (<60L),4870.0,1,Pet Friendly
+P0031,Pinnacle Park Sarjapur,Bengaluru,Sarjapur Road,Villa,3.0,1367,Under Construction,29,157.0,Premium (100-200L),11485.0,6,Clubhouse;EV Charging;Green Area;Gym;Pet Friendly;WFH Space
+P0032,Serene Towers Sector,Noida,Sector 150,Apartment,2.0,1107,Ready to Move,0,93.0,Mid (60-100L),8401.0,3,Co-working;EV Charging;Swimming Pool
+P0033,Skyline Residency Mulund,Mumbai,Mulund,Builder Floor,4.0,2023,Under Construction,11,363.0,Luxury (200L+),17944.0,7,Clubhouse;Co-working;Green Area;Gym;Pet Friendly;Swimming Pool;WFH Space
+P0034,Green Nest Hebbal,Bengaluru,Hebbal,Builder Floor,2.0,1104,New Launch,45,112.99999999999999,Premium (100-200L),10236.0,1,Clubhouse
+P0035,Lakeview Heights Sohna,Gurugram,Sohna Road,Apartment,3.0,1293,Ready to Move,0,106.0,Premium (100-200L),8198.0,4,EV Charging;Green Area;Pet Friendly;Swimming Pool
+P0036,Orchid Greens Sector,Noida,Sector 137,Villa,1.0,514,New Launch,37,44.0,Affordable (<60L),8560.0,2,Swimming Pool;WFH Space
+P0037,Serene Towers Electronic,Bengaluru,Electronic City,Apartment,2.0,1078,Under Construction,7,76.0,Mid (60-100L),7050.0,4,Co-working;EV Charging;Gym;Swimming Pool
+P0038,Palm Terraces Sector,Gurugram,Sector 65,Apartment,3.0,1477,Under Construction,34,142.0,Premium (100-200L),9614.0,2,Green Area;WFH Space
+P0039,The Meridian Thane,Mumbai,Thane,Builder Floor,3.0,1592,Ready to Move,0,189.0,Premium (100-200L),11872.0,4,Gym;Pet Friendly;Swimming Pool;WFH Space
+P0040,Urban Haven Gachibowli,Hyderabad,Gachibowli,Apartment,2.0,855,Under Construction,35,74.0,Mid (60-100L),8655.0,3,Gym;Swimming Pool;WFH Space
+P0041,Green Nest Gachibowli,Hyderabad,Gachibowli,Villa,3.0,1278,Under Construction,29,173.0,Premium (100-200L),13537.0,6,Clubhouse;Co-working;Green Area;Gym;Pet Friendly;WFH Space
+P0042,Urban Haven New,Gurugram,New Gurgaon,Apartment,3.0,1276,Under Construction,18,110.00000000000001,Premium (100-200L),8621.0,6,Clubhouse;EV Charging;Green Area;Pet Friendly;Swimming Pool;WFH Space
+P0043,Palm Terraces New,Gurugram,New Gurgaon,Apartment,4.0,2065,Under Construction,15,181.0,Premium (100-200L),8765.0,4,Clubhouse;Co-working;Gym;Pet Friendly
+P0044,Orchid Greens Kharadi,Pune,Kharadi,Apartment,4.0,2042,Under Construction,36,200.0,Luxury (200L+),9794.0,7,Clubhouse;Co-working;EV Charging;Green Area;Pet Friendly;Swimming Pool;WFH Space
+P0045,Orchid Greens Electronic,Bengaluru,Electronic City,Apartment,3.0,1358,Under Construction,12,77.0,Mid (60-100L),5670.0,2,EV Charging;Pet Friendly
+P0046,Zenith Square Kharadi,Pune,Kharadi,Apartment,3.0,1543,Under Construction,23,166.0,Premium (100-200L),10758.0,5,EV Charging;Green Area;Pet Friendly;Swimming Pool;WFH Space
+P0047,Harmony Homes Kandivali,Mumbai,Kandivali,Builder Floor,2.0,1026,Under Construction,8,210.0,Luxury (200L+),20468.0,3,Green Area;Pet Friendly;WFH Space
+P0048,Orchid Greens Sector,Noida,Sector 150,Apartment,2.0,1020,New Launch,34,83.0,Mid (60-100L),8137.0,2,Gym;Pet Friendly
+P0049,Pinnacle Park Sector,Gurugram,Sector 65,Apartment,1.0,612,Ready to Move,0,66.0,Mid (60-100L),10784.0,6,Clubhouse;EV Charging;Green Area;Gym;Pet Friendly;Swimming Pool
+P0050,Orchid Greens Sector,Noida,Sector 94,Apartment,2.0,1033,Ready to Move,0,126.0,Premium (100-200L),12197.0,6,Clubhouse;EV Charging;Green Area;Gym;Pet Friendly;Swimming Pool
+P0051,Urban Haven Gachibowli,Hyderabad,Gachibowli,Apartment,2.0,1001,Ready to Move,0,90.0,Mid (60-100L),8991.0,2,Clubhouse;WFH Space
+P0052,Orchid Greens Electronic,Bengaluru,Electronic City,Apartment,2.0,1055,Under Construction,25,63.0,Mid (60-100L),5972.0,1,Clubhouse
+P0053,Palm Terraces Kondapur,Hyderabad,Kondapur,Apartment,1.0,639,New Launch,33,55.0,Affordable (<60L),8607.0,3,Clubhouse;Green Area;Pet Friendly
+P0054,Orchid Greens Navi,Mumbai,Navi Mumbai,Apartment,3.0,1543,Under Construction,34,182.0,Premium (100-200L),11795.0,3,EV Charging;Pet Friendly;WFH Space
+P0057,Lakeview Heights Electronic,Bengaluru,Electronic City,Villa,4.0,2488,Under Construction,36,195.0,Premium (100-200L),7838.0,7,Clubhouse;Co-working;EV Charging;Green Area;Gym;Pet Friendly;WFH Space
+P0058,Orchid Greens Electronic,Bengaluru,Electronic City,Apartment,3.0,1574,Ready to Move,0,107.0,Premium (100-200L),6798.0,4,Green Area;Gym;Swimming Pool;WFH Space
+P0059,Skyline Residency Hinjewadi,Pune,Hinjewadi,Builder Floor,3.0,1578,New Launch,35,122.0,Premium (100-200L),7731.0,4,EV Charging;Green Area;Pet Friendly;WFH Space
+P0060,The Meridian Sarjapur,Bengaluru,Sarjapur Road,Apartment,1.0,629,Under Construction,15,55.0,Affordable (<60L),8744.0,5,Co-working;EV Charging;Green Area;Gym;Swimming Pool
+P0061,Aster Court Sector,Noida,Sector 137,Apartment,3.0,1683,Under Construction,22,108.0,Premium (100-200L),6417.0,0,
+P0062,Pinnacle Park Sector,Noida,Sector 94,Apartment,1.0,569,Ready to Move,0,72.0,Mid (60-100L),12654.0,1,Swimming Pool
+P0063,Zenith Square Thane,Mumbai,Thane,Apartment,1.0,589,Under Construction,16,73.0,Mid (60-100L),12394.0,4,Clubhouse;Green Area;Pet Friendly;WFH Space
+P0064,Palm Terraces Miyapur,Hyderabad,Miyapur,Builder Floor,2.0,1193,New Launch,31,65.0,Mid (60-100L),5448.0,1,Green Area
+P0066,Aster Court Sarjapur,Bengaluru,Sarjapur Road,Builder Floor,4.0,2430,Under Construction,15,203.0,Luxury (200L+),8354.0,4,EV Charging;Green Area;Gym;Pet Friendly
+P0067,Urban Haven Electronic,Bengaluru,Electronic City,Villa,1.0,575,Ready to Move,0,43.0,Affordable (<60L),7478.0,1,WFH Space
+P0068,Urban Haven Sarjapur,Bengaluru,Sarjapur Road,Apartment,2.0,1030,Ready to Move,0,75.0,Mid (60-100L),7282.0,0,
+P0069,Palm Terraces Whitefield,Bengaluru,Whitefield,Apartment,1.0,571,Under Construction,16,54.0,Affordable (<60L),9457.0,3,Green Area;Pet Friendly;WFH Space
+P0070,Serene Towers Miyapur,Hyderabad,Miyapur,Apartment,2.0,930,Ready to Move,0,57.0,Affordable (<60L),6129.0,1,Green Area
+P0072,Lakeview Heights Sector,Gurugram,Sector 65,Apartment,3.0,1487,Ready to Move,0,148.0,Premium (100-200L),9953.0,1,Gym
+P0073,Orchid Greens Baner,Pune,Baner,Builder Floor,2.0,1163,New Launch,25,122.0,Premium (100-200L),10490.0,3,Co-working;EV Charging;Pet Friendly
+P0074,Orchid Greens Gachibowli,Hyderabad,Gachibowli,Apartment,3.0,1409,Ready to Move,0,128.0,Premium (100-200L),9084.0,4,Gym;Pet Friendly;Swimming Pool;WFH Space
+P0075,Serene Towers Sohna,Gurugram,Sohna Road,Apartment,3.0,1612,Ready to Move,0,118.0,Premium (100-200L),7320.0,4,EV Charging;Gym;Pet Friendly;WFH Space
+P0076,Urban Haven Whitefield,Bengaluru,Whitefield,Apartment,1.0,698,Under Construction,22,68.0,Mid (60-100L),9742.0,4,Co-working;EV Charging;Gym;WFH Space
+P0077,Pinnacle Park Dwarka,Gurugram,Dwarka Expressway,Apartment,3.0,1316,Ready to Move,0,161.0,Premium (100-200L),12234.0,4,Co-working;EV Charging;Gym;WFH Space
+P0078,Skyline Residency Hebbal,Bengaluru,Hebbal,Apartment,2.0,1113,Under Construction,35,122.0,Premium (100-200L),10961.0,3,Co-working;EV Charging;Swimming Pool
+P0079,Aster Court Kokapet,Hyderabad,Kokapet,Apartment,2.0,1032,Ready to Move,0,127.0,Premium (100-200L),12306.0,3,Co-working;Pet Friendly;WFH Space
+P0080,Green Nest New,Gurugram,New Gurgaon,Apartment,4.0,2673,Under Construction,17,218.00000000000003,Luxury (200L+),8156.0,2,Co-working;EV Charging
+P0081,The Meridian Kharadi,Pune,Kharadi,Apartment,3.0,1724,Ready to Move,0,190.0,Premium (100-200L),11021.0,3,Clubhouse;EV Charging;Pet Friendly
+P0082,Aster Court Sohna,Gurugram,Sohna Road,Apartment,4.0,2789,Under Construction,23,235.0,Luxury (200L+),8426.0,5,Co-working;Green Area;Gym;Pet Friendly;Swimming Pool
+P0083,Aster Court Whitefield,Bengaluru,Whitefield,Apartment,2.0,918,Ready to Move,0,73.0,Mid (60-100L),7952.0,3,Co-working;Gym;WFH Space
+P0084,The Meridian Dwarka,Gurugram,Dwarka Expressway,Apartment,3.0,1626,Ready to Move,0,170.0,Premium (100-200L),10455.0,2,Co-working;Pet Friendly
+P0085,Lakeview Heights Sector,Gurugram,Sector 65,Apartment,4.0,2333,Under Construction,15,227.0,Luxury (200L+),9730.0,2,Green Area;Gym
+P0086,Green Nest Kandivali,Mumbai,Kandivali,Villa,4.0,2452,Ready to Move,0,644.0,Luxury (200L+),26264.0,8,Clubhouse;Co-working;EV Charging;Green Area;Gym;Pet Friendly;Swimming Pool;WFH Space
+P0087,Skyline Residency Sector,Gurugram,Sector 65,Apartment,3.0,1675,Under Construction,18,155.0,Premium (100-200L),9254.0,1,Clubhouse
+P0088,Zenith Square Sector,Noida,Sector 94,Builder Floor,4.0,2267,Ready to Move,0,219.0,Luxury (200L+),9660.0,5,Clubhouse;Co-working;Gym;Swimming Pool;WFH Space
+P0089,Skyline Residency Kondapur,Hyderabad,Kondapur,Apartment,3.0,1623,Ready to Move,0,137.0,Premium (100-200L),8441.0,1,Green Area
+P0090,The Meridian Miyapur,Hyderabad,Miyapur,Apartment,3.0,1414,New Launch,26,88.0,Mid (60-100L),6223.0,4,Co-working;EV Charging;Green Area;Pet Friendly
+P0091,Palm Terraces Thane,Mumbai,Thane,Apartment,3.0,1331,Under Construction,20,173.0,Premium (100-200L),12998.0,5,Clubhouse;EV Charging;Gym;Swimming Pool;WFH Space
+P0092,Skyline Residency Sohna,Gurugram,Sohna Road,Apartment,4.0,2028,Ready to Move,0,155.0,Premium (100-200L),7643.0,4,Clubhouse;Co-working;EV Charging;Swimming Pool
+P0093,Lakeview Heights Baner,Pune,Baner,Apartment,3.0,1568,New Launch,31,204.0,Luxury (200L+),13010.0,3,Co-working;Green Area;Swimming Pool
+P0094,Lakeview Heights Dwarka,Gurugram,Dwarka Expressway,Apartment,1.0,580,Under Construction,28,68.0,Mid (60-100L),11724.0,3,Clubhouse;Swimming Pool;WFH Space
+P0095,Serene Towers Kharadi,Pune,Kharadi,Apartment,2.0,1064,New Launch,42,98.0,Mid (60-100L),9211.0,4,Clubhouse;Co-working;EV Charging;Swimming Pool
+P0096,Orchid Greens Navi,Mumbai,Navi Mumbai,Apartment,3.0,1515,Under Construction,18,198.0,Premium (100-200L),13069.0,7,Clubhouse;Co-working;EV Charging;Green Area;Gym;Pet Friendly;Swimming Pool
+P0097,Zenith Square Sarjapur,Bengaluru,Sarjapur Road,Apartment,2.0,940,Ready to Move,0,78.0,Mid (60-100L),8298.0,2,Swimming Pool;WFH Space
+P0098,Zenith Square Dwarka,Gurugram,Dwarka Expressway,Apartment,3.0,1719,Under Construction,34,202.0,Luxury (200L+),11751.0,4,Clubhouse;Co-working;Gym;Swimming Pool
+P0099,Serene Towers Sector,Noida,Sector 94,Villa,3.0,1521,Ready to Move,0,229.0,Luxury (200L+),15056.0,0,
+P0100,Orchid Greens Hebbal,Bengaluru,Hebbal,Apartment,3.0,1687,Ready to Move,0,200.99999999999997,Luxury (200L+),11915.0,5,Co-working;EV Charging;Gym;Pet Friendly;Swimming Pool
+P0101,Orchid Greens Kandivali,Mumbai,Kandivali,Villa,3.0,1711,Under Construction,17,532.0,Luxury (200L+),31093.0,8,Clubhouse;Co-working;EV Charging;Green Area;Gym;Pet Friendly;Swimming Pool;WFH Space
+P0102,Urban Haven Greater,Noida,Greater Noida West,Apartment,3.0,1658,Under Construction,30,75.0,Mid (60-100L),4524.0,1,Pet Friendly
+P0103,Aster Court Gachibowli,Hyderabad,Gachibowli,Villa,1.0,505,New Launch,31,59.0,Affordable (<60L),11683.0,3,Green Area;Pet Friendly;WFH Space
+P0104,Palm Terraces New,Gurugram,New Gurgaon,Apartment,3.0,1318,Under Construction,11,118.0,Premium (100-200L),8953.0,3,Green Area;Swimming Pool;WFH Space
+P0105,The Meridian Hebbal,Bengaluru,Hebbal,Villa,3.0,1648,Under Construction,11,259.0,Luxury (200L+),15716.0,5,Co-working;EV Charging;Green Area;Swimming Pool;WFH Space
+P0106,Serene Towers Dwarka,Gurugram,Dwarka Expressway,Builder Floor,2.0,1085,Under Construction,15,126.0,Premium (100-200L),11613.0,2,Clubhouse;Pet Friendly
+P0107,Palm Terraces Electronic,Bengaluru,Electronic City,Builder Floor,3.0,1383,Ready to Move,0,75.0,Mid (60-100L),5423.0,2,Green Area;Gym
+P0108,Green Nest Sector,Gurugram,Sector 65,Apartment,2.0,1147,Under Construction,7,116.0,Premium (100-200L),10113.0,6,Clubhouse;EV Charging;Green Area;Gym;Swimming Pool;WFH Space
+P0109,Urban Haven Hebbal,Bengaluru,Hebbal,Builder Floor,2.0,1108,Ready to Move,0,112.99999999999999,Premium (100-200L),10199.0,3,Co-working;Green Area;Pet Friendly
+P0110,Aster Court Miyapur,Hyderabad,Miyapur,Apartment,1.0,506,Under Construction,26,29.0,Affordable (<60L),5731.0,4,Co-working;EV Charging;Green Area;WFH Space
+P0111,Serene Towers Kokapet,Hyderabad,Kokapet,Apartment,4.0,2760,Under Construction,17,290.0,Luxury (200L+),10507.0,5,Clubhouse;Co-working;Gym;Pet Friendly;Swimming Pool
+P0113,Urban Haven Sector,Noida,Sector 137,Apartment,2.0,906,Under Construction,30,63.0,Mid (60-100L),6954.0,4,EV Charging;Green Area;Gym;WFH Space
+P0114,The Meridian Thane,Mumbai,Thane,Villa,2.0,1014,Ready to Move,0,163.0,Premium (100-200L),16075.0,7,Clubhouse;Co-working;EV Charging;Gym;Pet Friendly;Swimming Pool;WFH Space
+P0115,Green Nest Sohna,Gurugram,Sohna Road,Apartment,2.0,1151,Ready to Move,0,79.0,Mid (60-100L),6864.0,6,Co-working;EV Charging;Green Area;Gym;Pet Friendly;Swimming Pool
+P0116,Green Nest Dwarka,Gurugram,Dwarka Expressway,Builder Floor,1.0,616,New Launch,32,70.0,Mid (60-100L),11364.0,5,Clubhouse;Co-working;Green Area;Pet Friendly;WFH Space
+P0117,Harmony Homes Kondapur,Hyderabad,Kondapur,Apartment,2.0,1130,Ready to Move,0,102.0,Premium (100-200L),9027.0,1,EV Charging
+P0118,Pinnacle Park Wakad,Pune,Wakad,Apartment,1.0,624,Under Construction,30,47.0,Affordable (<60L),7532.0,4,Co-working;EV Charging;Gym;WFH Space
+P0119,Green Nest Kandivali,Mumbai,Kandivali,Apartment,2.0,1176,Ready to Move,0,262.0,Luxury (200L+),22279.0,7,Clubhouse;Co-working;EV Charging;Green Area;Gym;Pet Friendly;WFH Space
+P0120,Aster Court Baner,Pune,Baner,Apartment,2.0,986,Under Construction,24,123.0,Premium (100-200L),12475.0,3,EV Charging;Pet Friendly;Swimming Pool
+P0121,Skyline Residency Thane,Mumbai,Thane,Apartment,2.0,886,Under Construction,8,108.0,Premium (100-200L),12190.0,2,Clubhouse;EV Charging
+P0122,Skyline Residency Gachibowli,Hyderabad,Gachibowli,Apartment,2.0,1148,Under Construction,17,98.0,Mid (60-100L),8537.0,3,EV Charging;Green Area;Swimming Pool
+P0123,Urban Haven Dwarka,Gurugram,Dwarka Expressway,Apartment,3.0,1324,New Launch,45,166.0,Premium (100-200L),12538.0,1,Pet Friendly
+P0124,Green Nest Baner,Pune,Baner,Apartment,2.0,1157,Under Construction,17,147.0,Premium (100-200L),12705.0,5,Clubhouse;Green Area;Pet Friendly;Swimming Pool;WFH Space
+P0125,Green Nest Gachibowli,Hyderabad,Gachibowli,Apartment,3.0,1284,Under Construction,23,136.0,Premium (100-200L),10592.0,3,Clubhouse;Co-working;Gym
+P0126,Orchid Greens Hinjewadi,Pune,Hinjewadi,Apartment,3.0,1438,Ready to Move,0,110.00000000000001,Premium (100-200L),7650.0,4,Co-working;EV Charging;Gym;Pet Friendly
+P0127,The Meridian Thane,Mumbai,Thane,Villa,3.0,1452,New Launch,37,234.0,Luxury (200L+),16116.0,6,Clubhouse;Co-working;EV Charging;Green Area;Pet Friendly;Swimming Pool
+P0128,Green Nest New,Gurugram,New Gurgaon,Villa,3.0,1522,Under Construction,35,144.0,Premium (100-200L),9461.0,4,Co-working;EV Charging;Gym;Swimming Pool
+P0129,Aster Court Whitefield,Bengaluru,Whitefield,Apartment,3.0,1707,Ready to Move,0,147.0,Premium (100-200L),8612.0,5,Clubhouse;Co-working;Green Area;Gym;WFH Space
+P0130,Orchid Greens Gachibowli,Hyderabad,Gachibowli,Villa,3.0,1603,Under Construction,30,220.0,Luxury (200L+),13724.0,2,Co-working;Gym
+P0131,Aster Court Mulund,Mumbai,Mulund,Apartment,4.0,2294,Under Construction,12,419.00000000000006,Luxury (200L+),18265.0,6,Clubhouse;Co-working;Green Area;Gym;Swimming Pool;WFH Space
+P0132,Urban Haven Hinjewadi,Pune,Hinjewadi,Apartment,2.0,862,Ready to Move,0,74.0,Mid (60-100L),8585.0,4,Co-working;EV Charging;Gym;Pet Friendly
+P0133,Pinnacle Park New,Gurugram,New Gurgaon,Apartment,2.0,872,New Launch,39,79.0,Mid (60-100L),9060.0,4,Clubhouse;Gym;Pet Friendly;Swimming Pool
+P0134,Pinnacle Park Sector,Noida,Sector 94,Apartment,1.0,583,Ready to Move,0,73.0,Mid (60-100L),12521.0,3,Clubhouse;Green Area;Gym
+P0135,Palm Terraces Wakad,Pune,Wakad,Apartment,3.0,1331,Under Construction,22,118.0,Premium (100-200L),8866.0,4,Clubhouse;Co-working;EV Charging;Green Area
+P0136,Pinnacle Park Electronic,Bengaluru,Electronic City,Apartment,4.0,2293,Under Construction,13,145.0,Premium (100-200L),6324.0,3,EV Charging;Swimming Pool;WFH Space
+P0137,Zenith Square Thane,Mumbai,Thane,Apartment,2.0,1023,Under Construction,11,126.0,Premium (100-200L),12317.0,4,Clubhouse;Co-working;EV Charging;Swimming Pool
+P0138,Skyline Residency Wakad,Pune,Wakad,Apartment,3.0,1423,Under Construction,31,133.0,Premium (100-200L),9346.0,2,Co-working;Pet Friendly
+P0139,Palm Terraces Hebbal,Bengaluru,Hebbal,Apartment,2.0,1059,Ready to Move,0,106.0,Premium (100-200L),10009.0,3,Co-working;Swimming Pool;WFH Space
+P0140,Harmony Homes Thane,Mumbai,Thane,Apartment,2.0,948,Ready to Move,0,132.0,Premium (100-200L),13924.0,4,Co-working;Gym;Swimming Pool;WFH Space
+P0141,Harmony Homes Dwarka,Gurugram,Dwarka Expressway,Apartment,2.0,936,Under Construction,13,107.0,Premium (100-200L),11432.0,2,Green Area;Gym
+P0142,Harmony Homes Gachibowli,Hyderabad,Gachibowli,Builder Floor,2.0,1135,Ready to Move,0,98.0,Mid (60-100L),8634.0,5,Co-working;Green Area;Gym;Pet Friendly;WFH Space
+P0143,Orchid Greens Sector,Noida,Sector 137,Apartment,2.0,895,New Launch,43,58.0,Affordable (<60L),6480.0,1,Co-working
+P0144,Serene Towers Wakad,Pune,Wakad,Apartment,3.0,1561,Ready to Move,0,144.0,Premium (100-200L),9225.0,3,Clubhouse;Pet Friendly;Swimming Pool
+P0145,Serene Towers Whitefield,Bengaluru,Whitefield,Apartment,2.0,1022,Ready to Move,0,90.0,Mid (60-100L),8806.0,1,Pet Friendly
+P0146,Aster Court Gachibowli,Hyderabad,Gachibowli,Builder Floor,3.0,1635,Ready to Move,0,166.0,Premium (100-200L),10153.0,5,EV Charging;Green Area;Pet Friendly;Swimming Pool;WFH Space
+P0147,Urban Haven Greater,Noida,Greater Noida West,Apartment,2.0,928,Under Construction,26,53.0,Affordable (<60L),5711.0,2,Gym;WFH Space
+P0148,Urban Haven Sector,Gurugram,Sector 65,Villa,2.0,1134,Ready to Move,0,131.0,Premium (100-200L),11552.0,2,Clubhouse;EV Charging
+P0149,Zenith Square Mulund,Mumbai,Mulund,Apartment,2.0,942,Ready to Move,0,163.0,Premium (100-200L),17304.0,0,
+P0150,Serene Towers Sohna,Gurugram,Sohna Road,Apartment,4.0,2414,Ready to Move,0,172.0,Premium (100-200L),7125.0,4,Co-working;Pet Friendly;Swimming Pool;WFH Space
+P0151,Urban Haven Sector,Gurugram,Sector 65,Apartment,2.0,918,Under Construction,18,97.0,Mid (60-100L),10566.0,3,Clubhouse;Co-working;Gym
+P0152,Orchid Greens Sector,Noida,Sector 94,Apartment,3.0,1293,Ready to Move,0,145.0,Premium (100-200L),11214.0,1,Clubhouse
+P0153,Orchid Greens Sector,Noida,Sector 137,Builder Floor,3.0,1355,New Launch,36,81.0,Mid (60-100L),5978.0,3,Green Area;Swimming Pool;WFH Space
+P0154,Urban Haven Sector,Noida,Sector 137,Apartment,2.0,1146,New Launch,46,70.0,Mid (60-100L),6108.0,3,Green Area;Gym;Swimming Pool
+P0155,Serene Towers Sector,Noida,Sector 94,Apartment,1.0,668,New Launch,26,78.0,Mid (60-100L),11677.0,3,Co-working;Gym;Swimming Pool
+P0156,Green Nest Whitefield,Bengaluru,Whitefield,Apartment,2.0,1156,Ready to Move,0,109.00000000000001,Premium (100-200L),9429.0,1,Pet Friendly
+P0157,Harmony Homes Hebbal,Bengaluru,Hebbal,Apartment,3.0,1502,Under Construction,27,173.0,Premium (100-200L),11518.0,3,Clubhouse;Co-working;Gym
+P0158,Green Nest Gachibowli,Hyderabad,Gachibowli,Villa,4.0,1907,New Launch,29,270.0,Luxury (200L+),14158.0,3,Co-working;Green Area;Swimming Pool
+P0159,Zenith Square Hebbal,Bengaluru,Hebbal,Builder Floor,2.0,1156,Ready to Move,0,114.99999999999999,Premium (100-200L),9948.0,1,Pet Friendly
+P0160,The Meridian Gachibowli,Hyderabad,Gachibowli,Apartment,3.0,1418,Under Construction,23,149.0,Premium (100-200L),10508.0,3,EV Charging;Green Area;Gym
+P0161,Serene Towers Sector,Noida,Sector 150,Apartment,3.0,1625,New Launch,29,138.0,Premium (100-200L),8492.0,3,Green Area;Swimming Pool;WFH Space
+P0162,The Meridian Kokapet,Hyderabad,Kokapet,Builder Floor,2.0,925,New Launch,24,93.0,Mid (60-100L),10054.0,1,Pet Friendly
+P0163,Aster Court Kharadi,Pune,Kharadi,Apartment,3.0,1714,Ready to Move,0,170.0,Premium (100-200L),9918.0,4,Clubhouse;Green Area;Gym;WFH Space
+P0164,Skyline Residency Sohna,Gurugram,Sohna Road,Villa,4.0,2052,New Launch,26,197.0,Premium (100-200L),9600.0,5,EV Charging;Gym;Pet Friendly;Swimming Pool;WFH Space
+P0165,Serene Towers Sohna,Gurugram,Sohna Road,Builder Floor,3.0,1663,Under Construction,28,125.0,Premium (100-200L),7517.0,3,Co-working;Gym;Pet Friendly
+P0166,Zenith Square Sarjapur,Bengaluru,Sarjapur Road,Apartment,2.0,997,Ready to Move,0,73.0,Mid (60-100L),7322.0,5,Clubhouse;Co-working;Green Area;Pet Friendly;Swimming Pool
+P0167,Pinnacle Park Sector,Noida,Sector 94,Villa,2.0,1008,Under Construction,19,140.0,Premium (100-200L),13889.0,3,Co-working;Green Area;Gym
+P0168,Orchid Greens Baner,Pune,Baner,Apartment,3.0,1317,Ready to Move,0,162.0,Premium (100-200L),12301.0,2,Pet Friendly;Swimming Pool
+P0169,Skyline Residency Sector,Noida,Sector 137,Apartment,3.0,1470,Under Construction,20,106.0,Premium (100-200L),7211.0,2,Clubhouse;WFH Space
+P0170,The Meridian Mulund,Mumbai,Mulund,Apartment,2.0,1185,New Launch,36,231.0,Luxury (200L+),19494.0,6,Clubhouse;Co-working;EV Charging;Green Area;Gym;Pet Friendly
+P0171,Aster Court Dwarka,Gurugram,Dwarka Expressway,Apartment,1.0,527,Under Construction,6,58.0,Affordable (<60L),11006.0,2,Pet Friendly;Swimming Pool
+P0172,Palm Terraces Thane,Mumbai,Thane,Apartment,2.0,990,New Launch,47,142.0,Premium (100-200L),14343.0,3,Clubhouse;Green Area;Pet Friendly
+P0173,Serene Towers Kokapet,Hyderabad,Kokapet,Apartment,4.0,2664,Under Construction,22,285.0,Luxury (200L+),10698.0,5,Clubhouse;Co-working;Green Area;Gym;Pet Friendly
+P0174,Pinnacle Park Kandivali,Mumbai,Kandivali,Builder Floor,2.0,982,Ready to Move,0,200.0,Luxury (200L+),20367.0,6,Clubhouse;Co-working;EV Charging;Green Area;Gym;WFH Space
+P0176,Lakeview Heights Gachibowli,Hyderabad,Gachibowli,Builder Floor,2.0,869,Ready to Move,0,81.0,Mid (60-100L),9321.0,2,EV Charging;Gym
+P0177,Skyline Residency Greater,Noida,Greater Noida West,Apartment,1.0,482,Under Construction,17,22.0,Affordable (<60L),4564.0,4,Co-working;Gym;Swimming Pool;WFH Space
+P0178,Green Nest Kondapur,Hyderabad,Kondapur,Apartment,1.0,676,Under Construction,12,67.0,Mid (60-100L),9911.0,0,
+P0179,Pinnacle Park Kharadi,Pune,Kharadi,Apartment,4.0,2684,Under Construction,13,268.0,Luxury (200L+),9985.0,7,Clubhouse;Co-working;EV Charging;Green Area;Pet Friendly;Swimming Pool;WFH Space
+P0180,Skyline Residency Kondapur,Hyderabad,Kondapur,Apartment,3.0,1655,Ready to Move,0,148.0,Premium (100-200L),8943.0,2,Co-working;Gym
+P0181,Serene Towers Whitefield,Bengaluru,Whitefield,Builder Floor,2.0,994,Under Construction,6,91.0,Mid (60-100L),9155.0,5,Co-working;EV Charging;Green Area;Pet Friendly;WFH Space
+P0182,Palm Terraces Kandivali,Mumbai,Kandivali,Apartment,4.0,2072,Under Construction,28,507.0,Luxury (200L+),24469.0,8,Clubhouse;Co-working;EV Charging;Green Area;Gym;Pet Friendly;Swimming Pool;WFH Space
+P0183,Urban Haven Sarjapur,Bengaluru,Sarjapur Road,Apartment,2.0,1174,Under Construction,9,91.0,Mid (60-100L),7751.0,4,Co-working;Green Area;Gym;Swimming Pool
+P0184,Palm Terraces Kondapur,Hyderabad,Kondapur,Apartment,3.0,1439,New Launch,41,134.0,Premium (100-200L),9312.0,2,Green Area;WFH Space
+P0185,Zenith Square Sector,Gurugram,Sector 65,Apartment,3.0,1678,Under Construction,15,162.0,Premium (100-200L),9654.0,4,Clubhouse;Co-working;Gym;WFH Space
+P0186,Green Nest Electronic,Bengaluru,Electronic City,Apartment,3.0,1726,Under Construction,10,120.0,Premium (100-200L),6952.0,2,EV Charging;Gym
+P0187,Orchid Greens Sector,Noida,Sector 150,Apartment,1.0,526,Under Construction,15,41.0,Affordable (<60L),7795.0,2,EV Charging;Pet Friendly
+P0188,Green Nest Baner,Pune,Baner,Apartment,1.0,503,Under Construction,22,59.0,Affordable (<60L),11730.0,3,Co-working;Swimming Pool;WFH Space
+P0189,Harmony Homes Whitefield,Bengaluru,Whitefield,Apartment,2.0,1148,Ready to Move,0,107.0,Premium (100-200L),9321.0,4,EV Charging;Green Area;Gym;WFH Space
+P0190,Lakeview Heights Baner,Pune,Baner,Apartment,4.0,2784,Under Construction,21,324.0,Luxury (200L+),11638.0,6,Clubhouse;Co-working;EV Charging;Green Area;Pet Friendly;WFH Space
+P0191,Aster Court Whitefield,Bengaluru,Whitefield,Apartment,2.0,1192,Under Construction,34,92.0,Mid (60-100L),7718.0,5,Clubhouse;Co-working;Gym;Pet Friendly;WFH Space
+P0192,Lakeview Heights Sector,Noida,Sector 94,Apartment,2.0,1104,Ready to Move,0,118.0,Premium (100-200L),10688.0,1,Clubhouse
+P0193,Orchid Greens Mulund,Mumbai,Mulund,Apartment,2.0,1097,Ready to Move,0,197.0,Premium (100-200L),17958.0,5,Clubhouse;Co-working;EV Charging;Gym;Pet Friendly
+P0194,Green Nest Wakad,Pune,Wakad,Builder Floor,2.0,1078,Under Construction,23,88.0,Mid (60-100L),8163.0,4,Clubhouse;Gym;Pet Friendly;WFH Space
+P0195,Serene Towers Greater,Noida,Greater Noida West,Builder Floor,1.0,644,Under Construction,28,35.0,Affordable (<60L),5435.0,1,Gym
+P0196,Aster Court Sector,Noida,Sector 94,Apartment,2.0,889,Ready to Move,0,92.0,Mid (60-100L),10349.0,4,EV Charging;Green Area;Swimming Pool;WFH Space
+P0197,Lakeview Heights Sector,Noida,Sector 150,Apartment,2.0,1138,Ready to Move,0,81.0,Mid (60-100L),7118.0,3,Green Area;Pet Friendly;WFH Space
+P0198,Harmony Homes Sector,Gurugram,Sector 65,Villa,2.0,952,Under Construction,8,133.0,Premium (100-200L),13971.0,3,Co-working;EV Charging;Swimming Pool
+P0199,Green Nest Kokapet,Hyderabad,Kokapet,Builder Floor,2.0,1163,Under Construction,8,134.0,Premium (100-200L),11522.0,5,Clubhouse;Co-working;EV Charging;Green Area;WFH Space
+P0200,Aster Court Gachibowli,Hyderabad,Gachibowli,Builder Floor,3.0,1651,Ready to Move,0,138.0,Premium (100-200L),8359.0,4,Clubhouse;Green Area;Pet Friendly;Swimming Pool
+P0201,Green Nest Sarjapur,Bengaluru,Sarjapur Road,Builder Floor,3.0,1342,Under Construction,7,100.0,Premium (100-200L),7452.0,4,Co-working;Gym;Pet Friendly;WFH Space
+P0202,Lakeview Heights Hebbal,Bengaluru,Hebbal,Builder Floor,2.0,1048,Under Construction,31,101.0,Premium (100-200L),9637.0,7,Co-working;EV Charging;Green Area;Gym;Pet Friendly;Swimming Pool;WFH Space
+P0203,Skyline Residency Navi,Mumbai,Navi Mumbai,Apartment,1.0,557,Under Construction,6,59.0,Affordable (<60L),10592.0,1,Co-working
+P0204,The Meridian Sarjapur,Bengaluru,Sarjapur Road,Apartment,3.0,1379,Under Construction,28,122.0,Premium (100-200L),8847.0,4,Clubhouse;Green Area;Gym;Swimming Pool
+P0205,Serene Towers Sector,Gurugram,Sector 65,Builder Floor,4.0,2587,Ready to Move,0,238.0,Luxury (200L+),9200.0,6,Clubhouse;Co-working;Gym;Pet Friendly;Swimming Pool;WFH Space
+P0206,Green Nest Sarjapur,Bengaluru,Sarjapur Road,Apartment,2.0,1042,Under Construction,19,87.0,Mid (60-100L),8349.0,4,Co-working;EV Charging;Pet Friendly;WFH Space
+P0207,Lakeview Heights Kandivali,Mumbai,Kandivali,Apartment,3.0,1624,Ready to Move,0,350.0,Luxury (200L+),21552.0,8,Clubhouse;Co-working;EV Charging;Green Area;Gym;Pet Friendly;Swimming Pool;WFH Space
+P0208,Skyline Residency Hebbal,Bengaluru,Hebbal,Builder Floor,2.0,1092,Under Construction,16,108.0,Premium (100-200L),9890.0,4,Clubhouse;EV Charging;Green Area;Gym
+P0209,Skyline Residency Electronic,Bengaluru,Electronic City,Apartment,4.0,2528,Under Construction,29,145.0,Premium (100-200L),5736.0,2,Gym;WFH Space
+P0210,Urban Haven Kondapur,Hyderabad,Kondapur,Builder Floor,3.0,1713,Under Construction,27,159.0,Premium (100-200L),9282.0,2,Co-working;WFH Space
+P0211,Urban Haven Miyapur,Hyderabad,Miyapur,Apartment,2.0,1076,Ready to Move,0,64.0,Mid (60-100L),5948.0,5,Co-working;Gym;Pet Friendly;Swimming Pool;WFH Space
+P0212,Aster Court Thane,Mumbai,Thane,Apartment,3.0,1604,Under Construction,6,211.0,Luxury (200L+),13155.0,3,Co-working;Swimming Pool;WFH Space
+P0213,Aster Court Miyapur,Hyderabad,Miyapur,Apartment,2.0,934,New Launch,39,55.0,Affordable (<60L),5889.0,3,EV Charging;Green Area;Pet Friendly
+P0214,Skyline Residency Dwarka,Gurugram,Dwarka Expressway,Apartment,2.0,984,Ready to Move,0,105.0,Premium (100-200L),10671.0,4,Co-working;Pet Friendly;Swimming Pool;WFH Space
+P0215,Green Nest Hebbal,Bengaluru,Hebbal,Villa,2.0,878,Under Construction,10,113.99999999999999,Premium (100-200L),12984.0,6,Clubhouse;Co-working;EV Charging;Green Area;Swimming Pool;WFH Space
+P0216,Zenith Square Kondapur,Hyderabad,Kondapur,Apartment,2.0,1044,New Launch,41,87.0,Mid (60-100L),8333.0,5,Clubhouse;Co-working;EV Charging;Green Area;Swimming Pool
+P0217,Skyline Residency Dwarka,Gurugram,Dwarka Expressway,Builder Floor,1.0,485,Under Construction,30,49.0,Affordable (<60L),10103.0,0,
+P0218,Orchid Greens Mulund,Mumbai,Mulund,Apartment,2.0,1050,Under Construction,7,193.0,Premium (100-200L),18381.0,4,Clubhouse;Co-working;EV Charging;WFH Space
+P0219,Urban Haven Sarjapur,Bengaluru,Sarjapur Road,Apartment,2.0,1011,New Launch,27,76.0,Mid (60-100L),7517.0,1,WFH Space
+P0220,Skyline Residency Sohna,Gurugram,Sohna Road,Apartment,3.0,1733,New Launch,30,122.0,Premium (100-200L),7040.0,3,EV Charging;Swimming Pool;WFH Space
+P0221,Lakeview Heights Gachibowli,Hyderabad,Gachibowli,Builder Floor,3.0,1285,Ready to Move,0,114.99999999999999,Premium (100-200L),8949.0,3,Co-working;EV Charging;Gym
+P0222,Lakeview Heights Dwarka,Gurugram,Dwarka Expressway,Builder Floor,3.0,1527,Ready to Move,0,174.0,Premium (100-200L),11395.0,4,Clubhouse;Co-working;EV Charging;Gym
+P0223,Green Nest Mulund,Mumbai,Mulund,Apartment,4.0,2513,Under Construction,31,468.0,Luxury (200L+),18623.0,8,Clubhouse;Co-working;EV Charging;Green Area;Gym;Pet Friendly;Swimming Pool;WFH Space
+P0224,Urban Haven Kandivali,Mumbai,Kandivali,Apartment,1.0,639,Under Construction,15,149.0,Premium (100-200L),23318.0,4,Clubhouse;Co-working;Swimming Pool;WFH Space
+P0225,The Meridian Baner,Pune,Baner,Builder Floor,3.0,1456,Ready to Move,0,183.0,Premium (100-200L),12569.0,5,Co-working;EV Charging;Gym;Swimming Pool;WFH Space
+P0226,Pinnacle Park Wakad,Pune,Wakad,Apartment,3.0,1422,Under Construction,6,124.0,Premium (100-200L),8720.0,2,Clubhouse;Co-working
+P0227,Zenith Square Sector,Gurugram,Sector 65,Builder Floor,2.0,945,Under Construction,12,91.0,Mid (60-100L),9630.0,2,Co-working;Green Area
+P0228,Orchid Greens Baner,Pune,Baner,Apartment,3.0,1397,Under Construction,14,179.0,Premium (100-200L),12813.0,1,Green Area
+P0229,Zenith Square New,Gurugram,New Gurgaon,Apartment,2.0,900,Under Construction,16,82.0,Mid (60-100L),9111.0,3,EV Charging;Gym;Swimming Pool
+P0230,Urban Haven Kokapet,Hyderabad,Kokapet,Apartment,3.0,1536,Under Construction,25,193.0,Premium (100-200L),12565.0,5,Clubhouse;Co-working;EV Charging;Swimming Pool;WFH Space
+P0231,Harmony Homes Kondapur,Hyderabad,Kondapur,Apartment,1.0,589,Under Construction,35,59.0,Affordable (<60L),10017.0,4,Gym;Pet Friendly;Swimming Pool;WFH Space
+P0232,Skyline Residency Hebbal,Bengaluru,Hebbal,Apartment,2.0,1155,Ready to Move,0,116.0,Premium (100-200L),10043.0,1,WFH Space
+P0233,Zenith Square Whitefield,Bengaluru,Whitefield,Apartment,2.0,973,New Launch,25,82.0,Mid (60-100L),8428.0,3,EV Charging;Green Area;WFH Space
+P0234,Orchid Greens Kokapet,Hyderabad,Kokapet,Apartment,3.0,1565,Ready to Move,0,185.0,Premium (100-200L),11821.0,4,Clubhouse;Co-working;Swimming Pool;WFH Space
+P0235,Urban Haven Sarjapur,Bengaluru,Sarjapur Road,Apartment,2.0,1027,Ready to Move,0,77.0,Mid (60-100L),7498.0,3,Green Area;Swimming Pool;WFH Space
+P0236,Skyline Residency Greater,Noida,Greater Noida West,Apartment,2.0,1040,Ready to Move,0,59.0,Affordable (<60L),5673.0,2,Pet Friendly;Swimming Pool
+P0237,Skyline Residency Electronic,Bengaluru,Electronic City,Apartment,3.0,1265,Ready to Move,0,85.0,Mid (60-100L),6719.0,3,Clubhouse;Co-working;Green Area
+P0238,Orchid Greens Hinjewadi,Pune,Hinjewadi,Apartment,1.0,699,New Launch,27,57.0,Affordable (<60L),8155.0,5,Co-working;EV Charging;Green Area;Gym;WFH Space
+P0239,Zenith Square Gachibowli,Hyderabad,Gachibowli,Apartment,1.0,638,Under Construction,25,61.0,Mid (60-100L),9561.0,0,
+P0240,Serene Towers Baner,Pune,Baner,Villa,2.0,893,Under Construction,26,123.0,Premium (100-200L),13774.0,4,Co-working;EV Charging;Pet Friendly;Swimming Pool
+P0241,Harmony Homes New,Gurugram,New Gurgaon,Apartment,1.0,581,New Launch,47,50.0,Affordable (<60L),8606.0,1,Co-working
+P0242,Zenith Square Sarjapur,Bengaluru,Sarjapur Road,Apartment,2.0,1120,New Launch,29,83.0,Mid (60-100L),7411.0,5,Clubhouse;Co-working;EV Charging;Green Area;Swimming Pool
+P0243,The Meridian Hebbal,Bengaluru,Hebbal,Apartment,3.0,1422,Under Construction,13,143.0,Premium (100-200L),10056.0,5,Clubhouse;EV Charging;Green Area;Gym;Swimming Pool
+P0244,Skyline Residency Sector,Noida,Sector 150,Apartment,2.0,1138,Under Construction,28,93.0,Mid (60-100L),8172.0,4,Clubhouse;Green Area;Gym;Swimming Pool
+P0245,Green Nest Kondapur,Hyderabad,Kondapur,Builder Floor,4.0,2059,Under Construction,22,187.0,Premium (100-200L),9082.0,3,Clubhouse;EV Charging;Green Area
+P0246,Pinnacle Park Sector,Noida,Sector 137,Apartment,2.0,1144,New Launch,44,71.0,Mid (60-100L),6206.0,1,Co-working
+P0247,Palm Terraces Hinjewadi,Pune,Hinjewadi,Apartment,2.0,955,Under Construction,13,72.0,Mid (60-100L),7539.0,1,Co-working
+P0248,Serene Towers Electronic,Bengaluru,Electronic City,Apartment,3.0,1658,Ready to Move,0,112.99999999999999,Premium (100-200L),6815.0,6,Clubhouse;Co-working;Green Area;Pet Friendly;Swimming Pool;WFH Space
+P0249,Palm Terraces Whitefield,Bengaluru,Whitefield,Builder Floor,2.0,1182,Ready to Move,0,109.00000000000001,Premium (100-200L),9222.0,5,Clubhouse;EV Charging;Green Area;Swimming Pool;WFH Space
+P0250,Aster Court Kondapur,Hyderabad,Kondapur,Builder Floor,2.0,1098,Ready to Move,0,88.0,Mid (60-100L),8015.0,2,Pet Friendly;Swimming Pool
+P0251,Lakeview Heights Sector,Noida,Sector 94,Apartment,3.0,1319,Under Construction,21,149.0,Premium (100-200L),11296.0,3,Green Area;Pet Friendly;WFH Space
+P0252,Serene Towers Sarjapur,Bengaluru,Sarjapur Road,Builder Floor,2.0,939,Ready to Move,0,65.0,Mid (60-100L),6922.0,2,Co-working;Swimming Pool
+P0253,Lakeview Heights Sarjapur,Bengaluru,Sarjapur Road,Apartment,2.0,1043,Ready to Move,0,77.0,Mid (60-100L),7383.0,3,Clubhouse;Gym;Swimming Pool
+P0254,Zenith Square New,Gurugram,New Gurgaon,Builder Floor,3.0,1680,Under Construction,22,121.0,Premium (100-200L),7202.0,4,Co-working;EV Charging;Gym;Pet Friendly
+P0255,Green Nest Sohna,Gurugram,Sohna Road,Builder Floor,3.0,1691,Ready to Move,0,129.0,Premium (100-200L),7629.0,4,Clubhouse;Green Area;Pet Friendly;Swimming Pool
+P0256,Urban Haven Sohna,Gurugram,Sohna Road,Apartment,2.0,1180,Under Construction,11,98.0,Mid (60-100L),8305.0,1,Green Area
+P0257,Orchid Greens New,Gurugram,New Gurgaon,Apartment,3.0,1551,Under Construction,12,128.0,Premium (100-200L),8253.0,4,EV Charging;Gym;Pet Friendly;WFH Space
+P0258,Skyline Residency Sector,Noida,Sector 94,Apartment,3.0,1595,Under Construction,36,199.0,Premium (100-200L),12476.0,4,Co-working;Green Area;Swimming Pool;WFH Space
+P0259,Palm Terraces Kharadi,Pune,Kharadi,Builder Floor,2.0,1036,Ready to Move,0,111.00000000000001,Premium (100-200L),10714.0,5,Clubhouse;Co-working;Green Area;Pet Friendly;WFH Space
+P0260,Harmony Homes Sohna,Gurugram,Sohna Road,Builder Floor,2.0,857,Ready to Move,0,66.0,Mid (60-100L),7701.0,3,EV Charging;Pet Friendly;WFH Space
+P0261,Harmony Homes Hebbal,Bengaluru,Hebbal,Apartment,4.0,2577,Ready to Move,0,247.0,Luxury (200L+),9585.0,4,Clubhouse;EV Charging;Gym;Swimming Pool
+P0262,Pinnacle Park Baner,Pune,Baner,Apartment,2.0,1151,Ready to Move,0,146.0,Premium (100-200L),12685.0,4,Co-working;EV Charging;Green Area;Swimming Pool
+P0263,Pinnacle Park Gachibowli,Hyderabad,Gachibowli,Apartment,2.0,1040,Ready to Move,0,94.0,Mid (60-100L),9038.0,4,Co-working;Green Area;Gym;Swimming Pool
+P0264,Orchid Greens Sarjapur,Bengaluru,Sarjapur Road,Builder Floor,3.0,1455,Under Construction,36,122.0,Premium (100-200L),8385.0,3,Clubhouse;Gym;Pet Friendly
+P0265,Skyline Residency Whitefield,Bengaluru,Whitefield,Apartment,1.0,549,Under Construction,25,43.0,Affordable (<60L),7832.0,4,EV Charging;Green Area;Pet Friendly;Swimming Pool
+P0266,Urban Haven Sector,Noida,Sector 150,Apartment,1.0,673,Ready to Move,0,50.0,Affordable (<60L),7429.0,2,Co-working;Gym
+P0267,Pinnacle Park Whitefield,Bengaluru,Whitefield,Apartment,2.0,1014,New Launch,38,78.0,Mid (60-100L),7692.0,4,EV Charging;Green Area;Swimming Pool;WFH Space
+P0268,The Meridian Kharadi,Pune,Kharadi,Villa,1.0,697,Ready to Move,0,84.0,Mid (60-100L),12052.0,1,Co-working
+P0269,Green Nest Navi,Mumbai,Navi Mumbai,Apartment,4.0,2034,Under Construction,22,248.0,Luxury (200L+),12193.0,6,Clubhouse;Co-working;Green Area;Gym;Swimming Pool;WFH Space
+P0270,Pinnacle Park Dwarka,Gurugram,Dwarka Expressway,Apartment,2.0,939,Under Construction,18,111.00000000000001,Premium (100-200L),11821.0,6,EV Charging;Green Area;Gym;Pet Friendly;Swimming Pool;WFH Space
+P0271,Green Nest Sarjapur,Bengaluru,Sarjapur Road,Apartment,3.0,1598,Ready to Move,0,130.0,Premium (100-200L),8135.0,0,
+P0272,Aster Court Sector,Gurugram,Sector 65,Builder Floor,2.0,1195,New Launch,47,102.0,Premium (100-200L),8536.0,4,EV Charging;Green Area;Pet Friendly;WFH Space
+P0273,Harmony Homes Gachibowli,Hyderabad,Gachibowli,Apartment,1.0,583,New Launch,27,55.0,Affordable (<60L),9434.0,3,Pet Friendly;Swimming Pool;WFH Space
+P0274,Orchid Greens Kandivali,Mumbai,Kandivali,Apartment,3.0,1300,Under Construction,34,296.0,Luxury (200L+),22769.0,7,Clubhouse;EV Charging;Green Area;Gym;Pet Friendly;Swimming Pool;WFH Space
+P0275,The Meridian Baner,Pune,Baner,Builder Floor,3.0,1358,Ready to Move,0,156.0,Premium (100-200L),11487.0,4,Co-working;Pet Friendly;Swimming Pool;WFH Space
+P0276,Urban Haven Whitefield,Bengaluru,Whitefield,Builder Floor,2.0,922,Under Construction,10,82.0,Mid (60-100L),8894.0,4,Clubhouse;EV Charging;Pet Friendly;Swimming Pool
+P0277,Palm Terraces Kandivali,Mumbai,Kandivali,Apartment,3.0,1299,Under Construction,30,275.0,Luxury (200L+),21170.0,2,EV Charging;WFH Space
+P0278,Orchid Greens Sector,Gurugram,Sector 65,Builder Floor,3.0,1379,Ready to Move,0,136.0,Premium (100-200L),9862.0,6,Clubhouse;Co-working;Green Area;Gym;Swimming Pool;WFH Space
+P0279,The Meridian Kokapet,Hyderabad,Kokapet,Apartment,2.0,889,Ready to Move,0,91.0,Mid (60-100L),10236.0,3,Clubhouse;Pet Friendly;Swimming Pool
+P0280,The Meridian New,Gurugram,New Gurgaon,Villa,2.0,983,Under Construction,19,110.00000000000001,Premium (100-200L),11190.0,6,Clubhouse;Co-working;EV Charging;Gym;Pet Friendly;WFH Space
+P0281,Pinnacle Park Gachibowli,Hyderabad,Gachibowli,Apartment,2.0,1191,Ready to Move,0,128.0,Premium (100-200L),10747.0,7,Clubhouse;Co-working;EV Charging;Green Area;Gym;Swimming Pool;WFH Space
+P0282,Orchid Greens Greater,Noida,Greater Noida West,Apartment,3.0,1384,Ready to Move,0,67.0,Mid (60-100L),4841.0,3,Green Area;Gym;WFH Space
+P0283,Lakeview Heights Hinjewadi,Pune,Hinjewadi,Villa,1.0,578,Ready to Move,0,62.0,Mid (60-100L),10727.0,6,Clubhouse;Co-working;Green Area;Pet Friendly;Swimming Pool;WFH Space
+P0284,Urban Haven Sector,Gurugram,Sector 65,Builder Floor,3.0,1579,New Launch,46,140.0,Premium (100-200L),8866.0,3,Green Area;Pet Friendly;Swimming Pool
+P0285,Urban Haven Miyapur,Hyderabad,Miyapur,Apartment,4.0,2016,New Launch,29,111.00000000000001,Premium (100-200L),5506.0,3,Co-working;EV Charging;Green Area
+P0286,The Meridian Mulund,Mumbai,Mulund,Apartment,3.0,1630,Under Construction,26,288.0,Luxury (200L+),17669.0,6,Clubhouse;Co-working;Green Area;Gym;Swimming Pool;WFH Space
+P0287,Lakeview Heights Sohna,Gurugram,Sohna Road,Apartment,3.0,1655,Ready to Move,0,117.0,Premium (100-200L),7069.0,4,Clubhouse;Co-working;Green Area;Gym
+P0288,Zenith Square Sohna,Gurugram,Sohna Road,Apartment,3.0,1616,Under Construction,23,136.0,Premium (100-200L),8416.0,3,Co-working;Swimming Pool;WFH Space
+P0289,Zenith Square Sector,Gurugram,Sector 65,Apartment,2.0,1121,Ready to Move,0,100.0,Premium (100-200L),8921.0,0,
+P0290,Skyline Residency Sector,Gurugram,Sector 65,Apartment,2.0,1059,Ready to Move,0,95.0,Mid (60-100L),8971.0,1,WFH Space
+P0291,Urban Haven Navi,Mumbai,Navi Mumbai,Villa,4.0,2180,Under Construction,36,305.0,Luxury (200L+),13991.0,7,Clubhouse;Co-working;EV Charging;Gym;Pet Friendly;Swimming Pool;WFH Space
+P0292,Skyline Residency Mulund,Mumbai,Mulund,Builder Floor,3.0,1420,Ready to Move,0,241.0,Luxury (200L+),16972.0,5,Clubhouse;Co-working;EV Charging;Pet Friendly;WFH Space
+P0293,Serene Towers Sector,Gurugram,Sector 65,Apartment,3.0,1323,Under Construction,21,122.0,Premium (100-200L),9221.0,2,Clubhouse;Co-working
+P0294,Green Nest Baner,Pune,Baner,Apartment,3.0,1444,Under Construction,34,156.0,Premium (100-200L),10803.0,5,Clubhouse;EV Charging;Green Area;Gym;Pet Friendly
+P0295,Pinnacle Park Sector,Gurugram,Sector 65,Apartment,1.0,695,Ready to Move,0,71.0,Mid (60-100L),10216.0,4,Co-working;EV Charging;Swimming Pool;WFH Space
+P0296,The Meridian Sector,Noida,Sector 150,Builder Floor,2.0,1142,Under Construction,11,89.0,Mid (60-100L),7793.0,6,Clubhouse;Co-working;EV Charging;Pet Friendly;Swimming Pool;WFH Space
+P0297,Aster Court Sector,Gurugram,Sector 65,Apartment,1.0,594,New Launch,32,53.0,Affordable (<60L),8923.0,3,Clubhouse;EV Charging;Gym
+P0298,Aster Court Mulund,Mumbai,Mulund,Apartment,2.0,896,Ready to Move,0,159.0,Premium (100-200L),17746.0,5,EV Charging;Green Area;Pet Friendly;Swimming Pool;WFH Space
+P0299,Skyline Residency Dwarka,Gurugram,Dwarka Expressway,Apartment,3.0,1293,Ready to Move,0,148.0,Premium (100-200L),11446.0,5,Co-working;EV Charging;Gym;Swimming Pool;WFH Space
+P0300,Serene Towers Sector,Gurugram,Sector 65,Apartment,3.0,1422,Under Construction,23,154.0,Premium (100-200L),10830.0,2,Clubhouse;Gym
+P0301,Lakeview Heights Gachibowli,Hyderabad,Gachibowli,Apartment,2.0,1019,Ready to Move,0,90.0,Mid (60-100L),8832.0,2,Pet Friendly;WFH Space
+P0302,Orchid Greens New,Gurugram,New Gurgaon,Apartment,3.0,1569,New Launch,36,116.0,Premium (100-200L),7393.0,5,Co-working;EV Charging;Gym;Pet Friendly;Swimming Pool
+P0303,Aster Court Electronic,Bengaluru,Electronic City,Villa,2.0,896,Ready to Move,0,71.0,Mid (60-100L),7924.0,3,Clubhouse;EV Charging;WFH Space
+P0304,Green Nest Sector,Gurugram,Sector 65,Villa,3.0,1410,Ready to Move,0,198.0,Premium (100-200L),14043.0,5,Clubhouse;Green Area;Pet Friendly;Swimming Pool;WFH Space
+P0305,Orchid Greens Sector,Noida,Sector 150,Apartment,1.0,693,Under Construction,34,57.0,Affordable (<60L),8225.0,1,Pet Friendly
+P0306,Palm Terraces Miyapur,Hyderabad,Miyapur,Villa,2.0,1027,Under Construction,16,78.0,Mid (60-100L),7595.0,3,Gym;Pet Friendly;WFH Space
+P0307,Serene Towers Sector,Noida,Sector 94,Builder Floor,2.0,915,Under Construction,19,90.0,Mid (60-100L),9836.0,1,Green Area
+P0308,Skyline Residency Gachibowli,Hyderabad,Gachibowli,Apartment,3.0,1544,Ready to Move,0,133.0,Premium (100-200L),8614.0,1,EV Charging
+P0309,Zenith Square Sarjapur,Bengaluru,Sarjapur Road,Apartment,3.0,1428,Under Construction,16,119.0,Premium (100-200L),8333.0,2,Clubhouse;Green Area
+P0310,Zenith Square Greater,Noida,Greater Noida West,Apartment,2.0,1055,Ready to Move,0,49.0,Affordable (<60L),4645.0,2,Co-working;WFH Space
+P0312,Skyline Residency Hebbal,Bengaluru,Hebbal,Apartment,4.0,2370,Ready to Move,0,233.0,Luxury (200L+),9831.0,6,Clubhouse;Co-working;EV Charging;Gym;Pet Friendly;WFH Space
+P0313,Zenith Square Kharadi,Pune,Kharadi,Apartment,1.0,596,Ready to Move,0,66.0,Mid (60-100L),11074.0,3,Clubhouse;EV Charging;Swimming Pool
+P0314,Skyline Residency Sohna,Gurugram,Sohna Road,Apartment,3.0,1748,Ready to Move,0,120.0,Premium (100-200L),6865.0,4,EV Charging;Gym;Pet Friendly;WFH Space
+P0315,Harmony Homes Miyapur,Hyderabad,Miyapur,Apartment,2.0,945,New Launch,34,53.0,Affordable (<60L),5608.0,3,Co-working;Pet Friendly;WFH Space
+P0316,Lakeview Heights Whitefield,Bengaluru,Whitefield,Apartment,4.0,2401,Under Construction,6,188.0,Premium (100-200L),7830.0,3,Green Area;Pet Friendly;Swimming Pool
+P0317,Serene Towers Dwarka,Gurugram,Dwarka Expressway,Builder Floor,1.0,673,Under Construction,7,69.0,Mid (60-100L),10253.0,3,Clubhouse;Co-working;Green Area
+P0318,Zenith Square Hebbal,Bengaluru,Hebbal,Villa,1.0,480,Ready to Move,0,72.0,Mid (60-100L),15000.0,1,Gym
+P0319,Harmony Homes Kokapet,Hyderabad,Kokapet,Apartment,3.0,1475,New Launch,31,158.0,Premium (100-200L),10712.0,4,Clubhouse;Co-working;EV Charging;WFH Space
+P0320,Aster Court Sarjapur,Bengaluru,Sarjapur Road,Apartment,3.0,1484,New Launch,28,117.0,Premium (100-200L),7884.0,1,Pet Friendly

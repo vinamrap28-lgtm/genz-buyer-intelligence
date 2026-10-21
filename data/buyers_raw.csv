@@ -1,0 +1,616 @@
+buyer_id,age,occupation_category,income_range,savings_range,property_budget,purchase_timeline,purchase_motive,preferred_city,preferred_locality,preferred_property_type,bhk_requirement,lifestyle_preferences,enquiries_count,brochure_downloads,events_attended,site_visit_interest
+B0001,24,Early Career - Other,15-25 LPA,10-20 L,58 L,3-6 months,Both,Gurugram,New Gurgaon,Apartment,3bhk,park;club house,1.0,0,0,No
+B0002,23,Salaried - IT,5-10 LPA,2-5 L,25 L,0-3 months,Self-use,Hyderabad,Flexible,Apartment,1 BHK,ev charging;gym,5.0,3,2,Yes
+B0003,25,Salaried - Non-IT,<5 LPA,,25 L,0-3 months,Self-use,Bengaluru,Whitefield,Apartment,1 BHK,pet friendly;Clubhouse,3.0,3,0,No
+B0004,23,Salaried - IT,10-15 LPA,20+ L,45 L,Not sure,Self-use,Bengaluru,Sarjapur Road,Builder Floor,1bhk,wfh space;Co-working;Gym;club house,1.0,0,0,No
+B0005,28,Salaried - Non-IT,5-10 LPA,2-5 L,43 L,6-12 months,Self-use,Bengaluru,Flexible,Apartment,1 BHK,pet friendly,1.0,2,1,No
+B0006,28,Salaried - IT,10-15 LPA,20+ L,35 L,3-6 months,Self-use,Gurugram,Sector 65,Apartment,1 BHK,club house;pet friendly;ev charging,2.0,0,0,No
+B0007,24,Salaried - IT,5-10 LPA,10-20 L,31 L,12+ months,Investment, HYDERABAD,Gachibowli,Apartment,1 BHK,Swimming Pool;coworking,1.0,1,1,Yes
+B0008,24,Salaried - IT,10-15 LPA,20+ L,55 L,6-12 months,Both,Noida,Greater Noida West,,2 BHK,work from home room,3.0,1,1,Yes
+B0009,27,Salaried - IT,5-10 LPA,<2 L,30 L,6-12 months,Self-use,Bengaluru,Electronic City,Apartment,1 BHK,wfh space;Swimming Pool;Co-working,2.0,1,1,No
+B0010,23,Freelancer / Gig,<5 LPA,5-10 L,25 L,0-3 months,Investment,Bengaluru,Sarjapur Road,Apartment,,Pet Friendly;coworking,3.0,3,1,No
+B0011,26,Salaried - IT,10-15 LPA,5-10 L,43 L,12+ months,Investment,Bengaluru,Sarjapur Road,Apartment,1 BHK,pet friendly;gym;wfh space;club house,1.0,0,0,No
+B0012,24,Early Career - Other,5-10 LPA,<2 L,40 L,12+ months,Self-use,Pune,Flexible,Apartment,1 BHK,Gym;club house;park,1.0,1,1,No
+B0013,23,Salaried - IT,10-15 LPA,20+ L,59 L,0-3 months,Both,Hyderabad,Kondapur,Apartment,2 BHK,pool;pet friendly;Co-working;wfh space;Green Area,4.0,1,0,Yes
+B0014,23,Salaried - IT,10-15 LPA,2-5 L,33 L,12+ months,Self-use,Pune,Wakad,Apartment,1bhk,park;wfh space;Swimming Pool;Clubhouse;EV Charging,0.0,1,1,Yes
+B0015,22,Early Career - Other,10-15 LPA,5-10 L,57 L,3-6 months,Self-use,Gurugram,Dwarka Expressway,Apartment,2 BHK,Co-working;pool,4.0,1,1,Yes
+B0016,24,Salaried - Non-IT,5-10 LPA,2-5 L,35 L,6-12 months,Self-use,Mumbai,Flexible,Apartment,1bhk,pet friendly,1.0,0,1,No
+B0017,45,Freelancer / Gig,<5 LPA,<2 L,25 L,Not sure,Both,Hyderabad,Miyapur,Apartment,1 BHK,gym;ev charging;Swimming Pool,0.0,0,0,No
+B0018,24,Salaried - IT,10-15 LPA,10-20 L,58 L,0-3 months,Self-use,Gurugram,Sohna Road,Apartment,1 BHK,pet friendly;coworking;park;Fitness Centre;work from home room,2.0,2,0,Yes
+B0019,25,Early Career - Other,5-10 LPA,<2 L,39 L,12+ months,Investment,Mumbai,Kandivali,,1 BHK,Green area;ev charging,3.0,0,0,No
+B0020,28,Salaried - Non-IT,<5 LPA,5-10 L,25 L,12+ months,Investment, GURGAON,Dwarka Expressway,Apartment,1 BHK,,1.0,1,0,No
+B0021,21,Salaried - Non-IT,5-10 LPA,<2 L,25 L,12+ months,Self-use,Noida,Flexible,Builder Floor,1 BHK,Gym;park;club house;pet friendly;work from home room,1.0,1,2,No
+B0022,29,Salaried - IT,15-25 LPA,5-10 L,83 L,3-6 months,Both,Gurugram,Sector 65,Apartment,2 BHK,gym,2.0,3,0,No
+B0023,26,Freelancer / Gig,15-25 LPA,20+ L,62 L,0-3 Months,Self-use,Gurugram,Sector 65,Apartment,2 BHK,park;WFH Space,0.0,5,3,Yes
+B0024,23,Startup / Entrepreneur,5-10 LPA,10-20 L,26 L,0-3 months,Both,Gurugram,Dwarka Expressway,Apartment,1 BHK,wfh space;pet friendly,3.0,1,0,Yes
+B0025,24,Salaried - IT,5-10 LPA,10-20 L,31 L,3-6 months,Self-use,Gurugram,Dwarka Expressway,Apartment,1 BHK,club house,2.0,2,0,Yes
+B0026,28,Salaried - IT,10-15 LPA,,60 L,3-6 months,Investment,Noida,Greater Noida West,Apartment,3 BHK,Swimming Pool;coworking,3.0,2,0,Yes
+B0027,29,Early Career - Other,15-25 LPA,10-20 L,84 L,Not sure,Self-use,Hyderabad,Flexible,Apartment,2 BHK,pet friendly;pool;Gym;ev charging;Green Area,1.0,0,0,No
+B0028,21,Salaried - Non-IT,15-25 LPA,10-20 L,1.03 Cr,6-12 months,Both,Mumbai,Mulund,Apartment,3 BHK,pet friendly;Swimming Pool;Green area,1.0,1,1,No
+B0029,24,Salaried - IT,25+ LPA,10-20 L,118 L,3-6 months,Both,Gurugram,New Gurgaon,Apartment,4 BHK,Co-working;Clubhouse;Green Area,2.0,3,0,Yes
+B0030,28,Early Career - Other,10-15 LPA,20+ L,34 L,6-12 months,Investment, PUNE,Wakad,,1 BHK,co working;EV Charging,3.0,0,3,No
+B0031,23,Early Career - Other,5-10 LPA,2-5 L,25 L,Not sure,Investment,Gurugram,Sector 65,Apartment,1 BHK,,0.0,1,0,No
+B0032,26,Early Career - Other,5-10 LPA,<2 L,29 L,Not sure,Self-use,Bengaluru,Hebbal,,1 BHK,pool;work from home room,0.0,0,0,No
+B0033,24,Salaried - IT,5-10 LPA,5-10 L,26 L,6-12 months,Self-use, BENGALURU,Electronic City,Apartment,1 BHK,EV Charging;wfh space,1.0,6,0,No
+B0034,27,Salaried - Non-IT,10-15 LPA,5-10 L,35 L,12+ months,Self-use,Noida,Flexible,Apartment,1 BHK,club house;pool;ev charging;gym,0.0,1,0,No
+B0035,27,Salaried - Non-IT,<5 LPA,<2 L,25 L,3-6 months,Self-use,Pune,Kharadi,Apartment,1 BHK,,2.0,0,1,No
+B0036,28,Salaried - IT,5-10 LPA,<2 L,34 L,Not sure,Both,Gurugram,Dwarka Expressway,Apartment,1 BHK,,0.0,0,0,No
+B0037,25,Freelancer / Gig,5-10 LPA,10-20 L,27 L,12+ months,Self-use,Noida,Flexible,Apartment,2 BHK,work from home room,1.0,0,0,No
+B0038,23,Freelancer / Gig,<5 LPA,2-5 L,25 L,6-12 months,Both,Noida,Sector 150,Apartment,1 BHK,wfh space;Pet Friendly;Green Area;Gym;Clubhouse,3.0,2,0,No
+B0039,23,Salaried - Non-IT,<5 LPA,5-10 L,25 L,3-6 months,Self-use,Bengaluru,Whitefield,,1 BHK,Pet Friendly;coworking;park,4.0,2,0,Yes
+B0040,29,Early Career - Other,5-10 LPA,<2 L,36 L,6-12 months,Investment, GURUGRAM,Flexible,Apartment,2 BHK,Clubhouse;Green area;Fitness Centre,2.0,4,0,No
+B0041,25,Salaried - Non-IT,10-15 LPA,20+ L,57 L,0-3 months,Investment,Bengaluru,Hebbal,Apartment,2 BHK,Green Area;Pet Friendly;work from home room;club house;ev charging,2.0,3,0,No
+B0042,27,Freelancer / Gig,<5 LPA,<2 L,25 L,6-12 months,Self-use,Pune,Baner,Apartment,1bhk,,1.0,0,0,Yes
+B0043,26,Salaried - IT,15-25 LPA,20+ L,100 L,0-3 months,Self-use,Bengaluru,Sarjapur Road,Apartment,2 BHK,,2.0,2,1,Yes
+B0044,26,Salaried - IT,25+ LPA,20+ L,1.59 Cr,0-3 months,Both,Pune,Kharadi,,2 BHK,,6.0,2,1,No
+B0045,22,Salaried - Non-IT,<5 LPA,<2 L,25 L,12+ months,Self-use,Gurugram,Sohna Road,Apartment,1 BHK,pet friendly,1.0,0,2,No
+B0046,26,Salaried - IT,5-10 LPA,10-20 L,39 L,3-6 months,Self-use,Bengaluru,Flexible,Apartment,2 BHK,coworking;Pet Friendly;ev charging,2.0,1,0,No
+B0047,22,Startup / Entrepreneur,15-25 LPA,20+ L,96 L,3-6 months,Both,Mumbai,Thane,Builder Floor,2 BHK,club house,8.0,4,0,No
+B0048,27,Startup / Entrepreneur,<5 LPA,2-5 L,25 L,3-6 months,Both,Bengaluru,Whitefield,Apartment,1 BHK,,3.0,4,0,Yes
+B0049,27,Salaried - IT,15-25 LPA,20+ L,101 L,0-3 months,Self-use,Mumbai,Flexible,,2 BHK,Fitness Centre;co working;Clubhouse,1.0,5,0,No
+B0050,24,Startup / Entrepreneur,5-10 LPA,5-10 L,32 L,6-12 months,Self-use,Pune,Flexible,Apartment,1 BHK,work from home room;coworking;Pet Friendly;Clubhouse,3.0,1,1,No
+B0051,25,Startup / Entrepreneur,10-15 LPA,5-10 L,44 L,3-6 months,Self-use,Pune,Hinjewadi,Apartment,1 BHK,,2.0,4,0,No
+B0052,27,Early Career - Other,15-25 LPA,5-10 L,68 L,0-3 months,Both,Hyderabad,Gachibowli,Apartment,2 BHK,Pet Friendly;WFH Space;Co-working;Swimming Pool;Green Area,2.0,1,0,No
+B0053,22,Salaried - IT,15-25 LPA,20+ L,72 L,0-3 months,Both,Hyderabad,Flexible,Apartment,1 BHK,WFH Space;pool,2.0,2,1,No
+B0054,27,Salaried - IT,5-10 LPA,5-10 L,40 L,6-12 months,Both,Hyderabad,Gachibowli,Apartment,2 BHK,wfh space;pet friendly;Fitness Centre;Swimming Pool,1.0,1,0,Yes
+B0055,23,Startup / Entrepreneur,10-15 LPA,5-10 L,70 L,0-3 months,Self-use,Mumbai,Kandivali,Apartment,2bhk,pet friendly,5.0,1,1,No
+B0056,25,Salaried - Non-IT,5-10 LPA,5-10 L,31 L,0-3 months,Self-use,Bengaluru,Electronic City,Apartment,1 BHK,Green area;wfh space;Gym,5.0,4,0,Yes
+B0057,22,Freelancer / Gig,5-10 LPA,<2 L,33 L,Not sure,Investment,Bengaluru,Hebbal,Apartment,1 BHK,ev charging;Green area,1.0,0,0,No
+B0058,21,Early Career - Other,10-15 LPA,10-20 L,36 L,3-6 months,Self-use,Gurugram,Dwarka Expressway,Apartment,1 BHK,pool;Clubhouse;wfh space;pet friendly;Fitness Centre,7.0,0,1,Yes
+B0059,29,Salaried - Non-IT,<5 LPA,<2 L,25 L,Not sure,Self-use,Mumbai,Thane,Apartment,1 BHK,work from home room;Swimming Pool,0.0,0,0,No
+B0060,28,Salaried - Non-IT,5-10 LPA,2-5 L,41 L,3-6 months,Investment,Gurugram,New Gurgaon,Apartment,1 BHK,,2.0,3,0,Yes
+B0061,23,Early Career - Other,<5 LPA,<2 L,25 L,Not sure,Self-use,Bengaluru,Whitefield,Apartment,1 BHK,Gym;wfh space;pet friendly;Clubhouse;Swimming Pool,1.0,1,0,No
+B0062,24,Freelancer / Gig,<5 LPA,<2 L,25 L,6-12 months,Investment,Hyderabad,Flexible,Apartment,1 BHK,wfh space,0.0,1,1,No
+B0063,21,Salaried - Non-IT,<5 LPA,2-5 L,25 L,0-3 months,Self-use,Bengaluru,Electronic City,Apartment,1 BHK,Gym,4.0,2,0,Yes
+B0064,24,Salaried - IT,5-10 LPA,<2 L,25 L,12+ months,Self-use,,Wakad,Apartment,1 BHK,coworking;Swimming Pool;park;WFH Space,0.0,2,0,No
+B0065,24,Early Career - Other,10-15 LPA,10-20 L,51 L,3-6 months,Self-use,Pune,Flexible,Apartment,2 BHK,Green area;EV Charging;Swimming Pool,4.0,2,1,Yes
+B0066,22,Salaried - IT,10-15 LPA,2-5 L,33 L,6-12 months,Investment,Hyderabad,Miyapur,Builder Floor,1 BHK,Pet Friendly;work from home room,1.0,1,1,No
+B0067,25,Salaried - IT,5-10 LPA,5-10 L,37 L,0-3 months,Self-use,Bengaluru,Hebbal,Apartment,,,3.0,3,0,Yes
+B0068,22,Salaried - Non-IT,10-15 LPA,2-5 L,68 L,12+ months,Both,Pune,Wakad,Apartment,2 BHK,,2.0,1,0,No
+B0069,21,Early Career - Other,15-25 LPA,20+ L,58 L,3-6 months,Both,Noida,Flexible,Apartment,3 BHK,Green area;Clubhouse,0.0,1,1,Yes
+B0070,25,Startup / Entrepreneur,5-10 LPA,<2 L,36 L,12+ months,Both,Gurugram,Flexible,Apartment,1bhk,Swimming Pool;Pet Friendly,5.0,2,0,No
+B0071,22,Salaried - IT,10-15 LPA,5-10 L,54 L,3-6 months,Investment,Pune,Hinjewadi,Apartment,2 BHK,Co-working;work from home room;Clubhouse;ev charging,3.0,2,1,No
+B0072,22,Freelancer / Gig,5-10 LPA,<2 L,30 L,Not sure,Both,Bengaluru,Whitefield,,1 BHK,gym,3.0,0,0,No
+B0073,25,Startup / Entrepreneur,5-10 LPA,5-10 L,39 L,Not sure,Self-use,Hyderabad,Kondapur,Apartment,1 BHK,EV Charging;Pet Friendly,0.0,0,1,No
+B0074,26,Salaried - IT,10-15 LPA,10-20 L,62 L,12+ Months,Both,Gurugram,Flexible,Apartment,2 BHK,Gym;Clubhouse;pet friendly,1.0,1,0,No
+B0075,23,Salaried - IT,5-10 LPA,5-10 L,27 L,0-3 months,Self-use,Pune,Flexible,Apartment,1 BHK,Pet Friendly;pool;WFH Space,4.0,0,1,No
+B0076,21,Salaried - Non-IT,<5 LPA,<2 L,25 L,6-12 months,Self-use,Hyderabad,Gachibowli,Apartment,1 BHK,Swimming Pool;work from home room,1.0,1,0,No
+B0077,26,Freelancer / Gig,5-10 LPA,<2 L,27 L,Not sure,Both,Bengaluru,Hebbal,Builder Floor,,Fitness Centre;WFH Space;Co-working;Green Area,0.0,0,0,No
+B0078,28,Salaried - Non-IT,10-15 LPA,5-10 L,54 L,12+ months,Self-use,Noida,Sector 137,Apartment,2 BHK,Clubhouse;gym;pool;ev charging,1.0,0,1,No
+B0079,23,Salaried - Non-IT,10-15 LPA,2-5 L,69 L,12+ months,Investment,Mumbai,Flexible,Apartment,2 BHK,WFH Space;ev charging,0.0,1,0,No
+B0080,27,Salaried - Non-IT,10-15 LPA,10-20 L,46 L,3-6 months,Self-use,Hyderabad,Flexible,Apartment,1 BHK,WFH Space;Pet Friendly;club house;Fitness Centre;Green area,3.0,0,0,Yes
+B0081,27,Early Career - Other,5-10 LPA,5-10 L,25 L,3-6 months,Both,Gurgaon,Dwarka Expressway,Apartment,2bhk,gym;Pet Friendly;Co-working,4.0,2,1,No
+B0082,29,Salaried - IT,5-10 LPA,<2 L,41 L,3-6 months,Self-use,Hyderabad,Kokapet,Apartment,1 BHK,,6.0,3,0,No
+B0083,28,Early Career - Other,25+ LPA,10-20 L,1.61 Cr,12+ months,Self-use,Pune,Wakad,Apartment,2 BHK,,1.0,2,0,No
+B0084,25,Salaried - IT,10-15 LPA,20+ L,32 L,0-3 months,Self-use,Noida,Sector 94,Apartment,1 BHK,Gym;wfh space;co working;Green Area,3.0,2,0,Yes
+B0085,22,Early Career - Other,10-15 LPA,10-20 L,40 L,6-12 months,Both,Pune,Kharadi,Builder Floor,1bhk,Fitness Centre,2.0,1,0,No
+B0086,25,Salaried - IT,5-10 LPA,2-5 L,43 L,,Self-use,Pune,Flexible,Apartment,1 BHK,,6.0,4,0,No
+B0087,26,Salaried - Non-IT,5-10 LPA,5-10 L,30 L,6-12 months,Both,Gurugram,Sohna Road,Builder Floor,1 BHK,coworking;Clubhouse,4.0,1,2,No
+B0088,24,Salaried - Non-IT,<5 LPA,<2 L,25 L,6-12 months,Investment,Pune,Flexible,Apartment,1 BHK,Pet Friendly;gym;park;ev charging,4.0,1,0,No
+B0089,26,Salaried - Non-IT,<5 LPA,<2 L,25 L,12+ months,Both,Hyderabad,Kokapet,Apartment,1 BHK,EV Charging;work from home room,1.0,0,0,Yes
+B0090,22,Salaried - IT,10-15 LPA,5-10 L,54 L,6-12 months,Both,Pune,Wakad,Apartment,2 BHK,Green Area,1.0,0,0,No
+B0091,25,Freelancer / Gig,5-10 LPA,10-20 L,36 L,12+ months,Both, BENGALURU,Flexible,Apartment,1 BHK,,1.0,0,0,No
+B0092,24,Startup / Entrepreneur,5-10 LPA,5-10 L,29 L,6-12 months,Both,Gurugram,Sector 65,Apartment,1 BHK,coworking;club house;Green Area,2.0,1,0,No
+B0093,26,Salaried - Non-IT,5-10 LPA,5-10 L,42 L,12+ months,Self-use,Bengaluru,Flexible,Apartment,1 BHK,Gym;Green Area;Pet Friendly;WFH Space,2.0,0,0,No
+B0094,21,Salaried - IT,15-25 LPA,,93 L,6-12 months,Investment, BENGALURU,Whitefield,Builder Floor,2 BHK,work from home room,5.0,0,0,No
+B0095,24,Salaried - IT,25+ LPA,20+ L,1.80 Cr,6-12 months,Self-use, PUNE,Wakad,Apartment,3 BHK,,2.0,1,0,No
+B0096,29,Salaried - IT,15-25 LPA,20+ L,98 L,3-6 Months,Both,Bengaluru,Hebbal,Apartment,2 BHK,Gym;co working;work from home room;pet friendly;Clubhouse,4.0,1,0,No
+B0097,29,Salaried - IT,10-15 LPA,10-20 L,47 L,3-6 months,Self-use,Pune,Baner,Apartment,1 BHK,pool,7.0,3,0,No
+B0098,26,Salaried - Non-IT,<5 LPA,<2 L,25 L,6-12 months,Both,Mumbai,Navi Mumbai,Apartment,1 BHK,co working,1.0,1,0,No
+B0099,25,Freelancer / Gig,5-10 LPA,10-20 L,38 L,6-12 months,Self-use,Pune,Flexible,Apartment,1 BHK,WFH Space;co working;Green Area;gym,1.0,1,0,No
+B0100,29,Salaried - IT,10-15 LPA,20+ L,65 L,3-6 months,Self-use,Noida,Flexible,Apartment,3 BHK,wfh space;Swimming Pool;co working;ev charging,2.0,0,0,Yes
+B0101,26,Salaried - IT,25+ LPA,20+ L,1.29 Cr,12+ months,Both,Hyderabad,Kondapur,Apartment,3 BHK,co working;Clubhouse,1.0,0,0,Yes
+B0102,25,Early Career - Other,<5 LPA,<2 L,25 L,Not sure,Investment,Bengaluru,Hebbal,Apartment,1 BHK,ev charging;Green Area;WFH Space,2.0,0,0,No
+B0103,29,Salaried - IT,10-15 LPA,2-5 L,64 L,Not sure,Self-use,Mumbai,Thane,Apartment,1 BHK,EV Charging,0.0,0,1,No
+B0104,21,Salaried - Non-IT,<5 LPA,<2 L,25 L,Not sure,Self-use,Gurugram,Dwarka Expressway,Apartment,1 BHK,,,1,0,No
+B0105,23,Salaried - Non-IT,10-15 LPA,5-10 L,51 L,3-6 months,Self-use,Mumbai,Navi Mumbai,Apartment,2 BHK,Clubhouse;gym;pet friendly;pool;park,4.0,1,0,Yes
+B0106,25,Freelancer / Gig,<5 LPA,5-10 L,25 L,0-3 months,Both,Pune,Hinjewadi,Apartment,1 BHK,pet friendly;co working,4.0,0,2,No
+B0107,26,Salaried - IT,10-15 LPA,20+ L,45 L,3-6 months,Self-use,Pune,Baner,Flat,1 BHK,wfh space;gym,3.0,4,1,No
+B0108,25,Freelancer / Gig,10-15 LPA,5-10 L,64 L,Not sure,Both,Mumbai,Thane,Apartment,2 BHK,,1.0,1,0,Yes
+B0109,24,Salaried - Non-IT,5-10 LPA,<2 L,36 L,6-12 months,Self-use,Gurugram,Sohna Road,Builder Floor,1 BHK,Gym;Green Area;Swimming Pool,1.0,0,1,No
+B0110,26,Salaried - Non-IT,5-10 LPA,2-5 L,44 L,3-6 months,Self-use,Hyderabad,Miyapur,Flat,1bhk,work from home room;ev charging,0.0,1,0,No
+B0111,25,Freelancer / Gig,10-15 LPA,10-20 L,67 L,0-3 months,Self-use,Pune,Baner,Apartment,2 BHK,work from home room,1.0,1,1,Yes
+B0112,27,Salaried - IT,10-15 LPA,10-20 L,58 L,12+ months,Self-use,bangalore,Electronic City,Apartment,2 BHK,Fitness Centre;co working,1.0,1,0,No
+B0113,25,Early Career - Other,10-15 LPA,10-20 L,33 L,3-6 months,Self-use, MUMBAI,Mulund,Apartment,1 BHK,pet friendly;wfh space,5.0,3,1,No
+B0114,27,Freelancer / Gig,<5 LPA,<2 L,25 L,3-6 months,Self-use,Mumbai,Flexible,Apartment,1 BHK,work from home room;park;gym,2.0,4,0,No
+B0115,29,Salaried - IT,15-25 LPA,20+ L,59 L,3-6 months,Self-use,Bengaluru,Whitefield,Apartment,2 BHK,wfh space;Clubhouse,0.0,0,0,No
+B0116,28,Startup / Entrepreneur,5-10 LPA,<2 L,30 L,6-12 months,Investment,Bengaluru,Electronic City,Builder Floor,1 BHK,park,1.0,2,1,No
+B0117,24,Salaried - Non-IT,5-10 LPA,5-10 L,26 L,0-3 months,Both,Gurugram,Dwarka Expressway,Builder Floor,1bhk,,2.0,4,0,Yes
+B0118,29,Startup / Entrepreneur,15-25 LPA,10-20 L,1.15 Cr,3-6 months,Self-use,Hyderabad,Gachibowli,Apartment,4 BHK,,3.0,0,1,Yes
+B0119,25,Salaried - IT,5-10 LPA,<2 L,26 L,0-3 months,Self-use,Noida,Sector 94,Builder Floor,1 BHK,Fitness Centre;EV Charging;Co-working;pet friendly;wfh space,4.0,3,1,Yes
+B0120,24,Salaried - IT,5-10 LPA,5-10 L,26 L,3-6 months,Self-use,Pune,Kharadi,Apartment,1 BHK,Clubhouse;Swimming Pool;Co-working;WFH Space;gym,4.0,3,0,Yes
+B0121,29,Salaried - IT,10-15 LPA,20+ L,58 L,Not sure,Self-use,Bengaluru,Hebbal,Apartment,2 BHK,Green area;Pet Friendly;WFH Space;Clubhouse,1.0,0,1,No
+B0122,27,Salaried - Non-IT,5-10 LPA,<2 L,26 L,12+ months,Self-use,Mumbai,Navi Mumbai,Builder Floor,1 BHK,Fitness Centre,0.0,0,0,No
+B0123,25,Early Career - Other,10-15 LPA,2-5 L,71 L,12+ months,Both,Bengaluru,Whitefield,Apartment,1 BHK,Swimming Pool;Fitness Centre;Green area,1.0,1,0,No
+B0124,22,Freelancer / Gig,5-10 LPA,10-20 L,42 L,6-12 months,Self-use,Bengaluru,Electronic City,Apartment,1 BHK,,3.0,0,0,Yes
+B0125,24,Salaried - Non-IT,<5 LPA,<2 L,25 L,12+ months,Self-use,Hyderabad,Kokapet,Apartment,,coworking;EV Charging;Pet Friendly,0.0,0,1,No
+B0126,28,Salaried - IT,15-25 LPA,20+ L,71 L,3-6 months,Both,Hyderabad,Flexible,Builder Floor,2 BHK,WFH Space;park;Gym;club house;coworking,,2,0,Yes
+B0127,24,Salaried - IT,15-25 LPA,5-10 L,61 L,12+ months,Self-use,Bengaluru,Whitefield,Builder Floor,2 BHK,,4.0,0,0,No
+B0128,27,Freelancer / Gig,25+ LPA,10-20 L,1.29 Cr,6-12 months,Self-use,Hyderabad,Flexible,Apartment,4 BHK,Clubhouse;Co-working,3.0,2,0,Yes
+B0129,24,Salaried - Non-IT,<5 LPA,<2 L,25 L,Not sure,Self-use,Gurugram,Flexible,Apartment,1 BHK,pet friendly;Fitness Centre;wfh space;EV Charging;Swimming Pool,1.0,0,0,No
+B0130,29,Salaried - IT,15-25 LPA,20+ L,66 L,3-6 months,Self-use,Gurugram,New Gurgaon,Apartment,2 BHK,wfh space;pet friendly;park;ev charging;co working,4.0,3,0,No
+B0131,24,Early Career - Other,25+ LPA,20+ L,1.45 Cr,6-12 months,Self-use,Hyderabad,Miyapur,Flat,3 BHK,,3.0,1,0,No
+B0132,25,Freelancer / Gig,5-10 LPA,<2 L,32 L,6-12 months,Both,Bengaluru,Sarjapur Road,Apartment,1 BHK,Green area;Fitness Centre;work from home room,2.0,2,0,No
+B0133,27,Freelancer / Gig,<5 LPA,<2 L,25 L,12+ Months,Both,Bengaluru,Whitefield,Apartment,1 BHK,Green Area;wfh space;pet friendly;coworking,1.0,0,1,No
+B0134,24,Early Career - Other,15-25 LPA,20+ L,114 L,,Investment,Gurugram,Dwarka Expressway,Apartment,3 BHK,Fitness Centre;Pet Friendly;WFH Space;Clubhouse,3.0,2,2,Yes
+B0135,24,Salaried - IT,10-15 LPA,2-5 L,73 L,12+ months,Investment,Hyderabad,Miyapur,Apartment,2 BHK,WFH Space,0.0,1,0,No
+B0136,25,Startup / Entrepreneur,5-10 LPA,5-10 L,31 L,0-3 months,Investment,Pune,Flexible,Apartment,1 BHK,WFH Space;Pet Friendly;co working;Fitness Centre;park,3.0,3,1,No
+B0137,23,Freelancer / Gig,<5 LPA,<2 L,25 L,6-12 months,Both,Noida,Greater Noida West,Apartment,1 BHK,Fitness Centre;WFH Space;coworking;pet friendly;Green area,2.0,1,0,No
+B0138,26,Startup / Entrepreneur,10-15 LPA,20+ L,37 L,3-6 months,Both,Pune,Hinjewadi,Apartment,1 BHK,coworking;WFH Space;Fitness Centre;pool;Green area,1.0,2,0,Yes
+B0139,24,Salaried - IT,15-25 LPA,10-20 L,87 L,Not sure,Self-use,Gurugram,Sohna Road,Apartment,2 BHK,work from home room;ev charging,3.0,0,1,No
+B0140,23,Early Career - Other,<5 LPA,2-5 L,25 L,Not Sure,Self-use,Mumbai,Flexible,Builder Floor,2 BHK,Green area;coworking;Clubhouse;Pet Friendly;EV Charging,0.0,0,0,No
+B0141,26,Freelancer / Gig,5-10 LPA,5-10 L,25 L,0-3 months,Self-use,Noida,Sector 94,Apartment,1 BHK,pet friendly,6.0,3,0,No
+B0142,27,Salaried - IT,5-10 LPA,10-20 L,37 L,6-12 months,Both,Gurugram,Flexible,Apartment,1 BHK,WFH Space;co working;pet friendly;gym,4.0,2,2,No
+B0143,29,Salaried - Non-IT,15-25 LPA,20+ L,57 L,12+ months,Investment,Gurugram,Dwarka Expressway,Apartment,2 BHK,,1.0,0,1,No
+B0144,23,Startup / Entrepreneur,15-25 LPA,5-10 L,118 L,12+ months,Self-use,Pune,Kharadi,Apartment,3 BHK,co working;gym;WFH Space,1.0,2,0,No
+B0145,28,Salaried - Non-IT,5-10 LPA,2-5 L,41 L,6-12 months,Self-use,Bengaluru,Whitefield,Apartment,1 BHK,,4.0,2,2,No
+B0146,29,Freelancer / Gig,5-10 LPA,2-5 L,37 L,Not sure,Self-use,Pune,Hinjewadi,Apartment,1 BHK,WFH Space;park;Fitness Centre,0.0,1,0,No
+B0147,22,Early Career - Other,25+ LPA,10-20 L,97 L,12+ months,Self-use,Gurugram,New Gurgaon,Flat,2 BHK,,0.0,0,0,No
+B0148,26,Early Career - Other,<5 LPA,<2 L,25 L,12+ months,Self-use,Bengaluru,Flexible,Apartment,1 BHK,pool;WFH Space;Fitness Centre;ev charging;Co-working,0.0,2,0,No
+B0149,28,Salaried - Non-IT,5-10 LPA,5-10 L,37 L,0-3 months,Both,Mumbai,Navi Mumbai,Apartment,1 BHK,Green Area;co working,3.0,2,0,Yes
+B0150,23,Salaried - Non-IT,10-15 LPA,10-20 L,42 L,0-3 months,Self-use,Hyderabad,Kondapur,Apartment,1 BHK,club house;pet friendly;EV Charging;gym,2.0,4,2,Yes
+B0151,24,Salaried - IT,15-25 LPA,20+ L,94 L,3-6 months,Both,Bengaluru,Electronic City,Apartment,2 BHK,wfh space,5.0,4,0,Yes
+B0152,29,Salaried - IT,25+ LPA,20+ L,1.02 Cr,6-12 months,Investment,Noida,Greater Noida West,Apartment,2 BHK,,0.0,2,1,No
+B0153,28,Salaried - Non-IT,15-25 LPA,5-10 L,60 L,12+ months,Investment,Gurugram,Flexible,Apartment,2 BHK,Fitness Centre,0.0,1,0,No
+B0154,21,Salaried - IT,25+ LPA,20+ L,1.79 Cr,6-12 months,Self-use,Mumbai,Navi Mumbai,Apartment,3bhk,,3.0,1,1,No
+B0155,24,Salaried - IT,15-25 LPA,10-20 L,97 L,Not sure,Both,Mumbai,Kandivali,Apartment,,work from home room;ev charging;co working;Fitness Centre;Green Area,0.0,0,0,No
+B0156,24,Salaried - IT,5-10 LPA,<2 L,43 L,6-12 months,Both,Noida,Sector 137,Builder Floor,,,2.0,2,2,Yes
+B0157,28,Salaried - IT,5-10 LPA,<2 L,33 L,Not sure,Self-use,Hyderabad,Miyapur,Apartment,1 BHK,wfh space;ev charging,1.0,0,0,No
+B0158,24,Salaried - IT,10-15 LPA,2-5 L,61 L,Not sure,Both,Gurugram,Sector 65,Apartment,2 BHK,coworking,0.0,0,0,Yes
+B0159,25,Salaried - IT,25+ LPA,20+ L,1.60 Cr,3-6 months,Investment,Bengaluru,Flexible,Apartment,4 BHK,wfh space;club house,2.0,0,0,No
+B0160,22,Salaried - IT,10-15 LPA,20+ L,59 L,3-6 months,Self-use,Pune,Flexible,,2 BHK,Pet Friendly;WFH Space;Fitness Centre,4.0,2,0,No
+B0161,25,Startup / Entrepreneur,25+ LPA,20+ L,1.28 Cr,3-6 months,Self-use,Bengaluru,Flexible,Builder Floor,3 BHK,WFH Space;Co-working;Clubhouse;pet friendly,3.0,4,1,Yes
+B0162,27,Early Career - Other,10-15 LPA,2-5 L,32 L,Not sure,Both,Pune,Flexible,Apartment,1 BHK,,0.0,1,0,No
+B0163,21,Early Career - Other,<5 LPA,<2 L,25 L,3-6 months,Both,Hyderabad,Flexible,Apartment,1 BHK,EV Charging;Fitness Centre,7.0,2,0,Yes
+B0164,22,Startup / Entrepreneur,5-10 LPA,10-20 L,26 L,0-3 months,Both,Hyderabad,Gachibowli,Apartment,1 BHK,,4.0,4,2,Yes
+B0165,28,Early Career - Other,5-10 LPA,<2 L,25 L,0-3 months,Self-use,Hyderabad,Miyapur,Apartment,1 BHK,Pet Friendly;gym;ev charging,5.0,1,0,No
+B0166,23,Salaried - Non-IT,,2-5 L,25 L,12+ months,Self-use,Pune,Kharadi,Apartment,1 BHK,EV Charging;Swimming Pool;Gym;wfh space;Green area,0.0,1,0,No
+B0167,23,Freelancer / Gig,10-15 LPA,5-10 L,66 L,12+ months,Both,Hyderabad,Kondapur,Apartment,2 BHK,Clubhouse;Gym,1.0,1,0,No
+B0168,22,Freelancer / Gig,15-25 LPA,5-10 L,1.06 Cr,12+ Months,Self-use,Mumbai,Mulund,Apartment,2 BHK,,1.0,1,0,No
+B0169,29,Salaried - Non-IT,10-15 LPA,2-5 L,33 L,Not sure,Investment,,Hebbal,Apartment,1 BHK,park;pet friendly;work from home room;Fitness Centre,1.0,0,0,No
+B0170,23,Freelancer / Gig,<5 LPA,<2 L,25 L,12+ months,Investment,Bengaluru,Electronic City,Apartment,1 BHK,co working,0.0,0,1,No
+B0171,23,Salaried - Non-IT,5-10 LPA,2-5 L,25 L,12+ months,Both,Gurugram,Sohna Road,Apartment,1 BHK,WFH Space,0.0,0,0,No
+B0172,25,Salaried - IT,10-15 LPA,2-5 L,59 L,6-12 months,Investment,Mumbai,Flexible,Apartment,2 BHK,WFH Space,1.0,3,1,No
+B0173,26,Freelancer / Gig,15-25 LPA,5-10 L,74 L,Not sure,Self-use,Gurugram,Sector 65,Apartment,2 BHK,pool,1.0,1,0,No
+B0174,22,Salaried - IT,5-10 LPA,<2 L,32 L,6-12 months,Self-use,Gurugram,New Gurgaon,Apartment,,Green Area,2.0,1,0,Yes
+B0175,25,Salaried - IT,5-10 LPA,<2 L,38 L,3-6 months,Self-use,,Kokapet,Apartment,1 BHK,work from home room,6.0,1,0,No
+B0176,26,Salaried - Non-IT,5-10 LPA,10-20 L,39 L,0-3 Months,Both,bangalore,Whitefield,Flat,2 BHK,gym;Swimming Pool;pet friendly;Green area,4.0,1,0,Yes
+B0177,22,Salaried - IT,,10-20 L,36 L,0-3 months,Both,Pune,Kharadi,Apartment,1 BHK,pet friendly;wfh space,5.0,2,1,No
+B0178,22,Salaried - IT,10-15 LPA,2-5 L,46 L,Not sure,Self-use,Hyderabad,Flexible,Apartment,1 BHK,Pet Friendly;Green Area;co working,0.0,0,0,No
+B0179,27,Salaried - IT,15-25 LPA,10-20 L,114 L,Not sure,Self-use,Hyderabad,Flexible,Apartment,3 BHK,Fitness Centre;Clubhouse;Swimming Pool,1.0,2,1,No
+B0180,26,Salaried - IT,10-15 LPA,10-20 L,56 L,3-6 months,Both,Gurugram,Sector 65,Apartment,2 BHK,,3.0,1,0,Yes
+B0181,25,Early Career - Other,25+ LPA,,97 L,0-3 months,Both,Bengaluru,Flexible,Apartment,1 BHK,work from home room;Green Area;Swimming Pool,1.0,3,0,No
+B0182,23,Early Career - Other,10-15 LPA,2-5 L,53 L,6-12 months,Self-use,Gurugram,Sector 65,Apartment,1 BHK,pool;Gym;Green area;WFH Space,2.0,2,0,No
+B0183,25,Salaried - Non-IT,5-10 LPA,10-20 L,32 L,6-12 months,Self-use,Bengaluru,Sarjapur Road,Apartment,1 BHK,Clubhouse;Swimming Pool;Green area;wfh space;Fitness Centre,1.0,1,0,No
+B0184,22,Startup / Entrepreneur,25+ LPA,20+ L,77 L,3-6 months,Self-use,Mumbai,Thane,Apartment,1 BHK,Swimming Pool;coworking;work from home room;Green Area,5.0,2,1,Yes
+B0185,21,Salaried - IT,10-15 LPA,5-10 L,71 L,6-12 months,Both,Hyderabad,Kokapet,Apartment,1 BHK,wfh space,3.0,3,1,No
+B0186,26,Early Career - Other,<5 LPA,2-5 L,25 L,6-12 months,Both,,Flexible,Apartment,,,1.0,0,0,No
+B0187,28,Salaried - IT,10-15 LPA,20+ L,62 L,0-3 months,Self-use,Bengaluru,Whitefield,Apartment,2 BHK,pool;co working;Green Area;work from home room;EV Charging,1.0,0,0,No
+B0188,26,Salaried - Non-IT,15-25 LPA,20+ L,82 L,0-3 months,Self-use,Mumbai,Kandivali,Apartment,1 BHK,Green Area,1.0,3,2,No
+B0189,23,Early Career - Other,10-15 LPA,2-5 L,33 L,12+ months,Self-use,Hyderabad,Flexible,Apartment,1 BHK,Fitness Centre;pet friendly;Green Area;co working;Swimming Pool,0.0,2,0,No
+B0190,26,Salaried - Non-IT,<5 LPA,2-5 L,25 L,0-3 months,Self-use,Gurugram,Sohna Road,Apartment,1 BHK,Co-working;Pet Friendly;Gym;park,,2,0,No
+B0191,28,Salaried - Non-IT,5-10 LPA,10-20 L,30 L,12+ months,Both,Gurugram,Dwarka Expressway,Apartment,1 BHK,ev charging;club house;Green Area,1.0,1,0,No
+B0192,24,Freelancer / Gig,<5 LPA,<2 L,25 L,12+ months,Self-use,Noida,Greater Noida West,Apartment,1 BHK,Co-working;WFH Space;gym;Pet Friendly,2.0,1,0,No
+B0193,29,Salaried - Non-IT,5-10 LPA,2-5 L,41 L,12+ months,Self-use,Bengaluru,Whitefield,Apartment,1 BHK,Green Area;Gym;coworking;work from home room;ev charging,0.0,0,0,No
+B0194,22,Early Career - Other,10-15 LPA,2-5 L,64 L,12+ Months,Both,Hyderabad,Miyapur,Apartment,2 BHK,gym;Green area;Pet Friendly;Co-working;Swimming Pool,0.0,2,0,No
+B0195,22,Early Career - Other,5-10 LPA,5-10 L,25 L,0-3 Months,Both,Pune,Flexible,Builder Floor,1 BHK,,3.0,5,1,No
+B0196,26,Salaried - IT,10-15 LPA,5-10 L,61 L,12+ months,Self-use,Mumbai,Navi Mumbai,Apartment,3bhk,Green area,2.0,0,0,No
+B0197,28,Early Career - Other,5-10 LPA,2-5 L,33 L,Not Sure,Self-use,Bengaluru,Sarjapur Road,Apartment,1 BHK,club house;Fitness Centre;pool;Green area;EV Charging,1.0,1,0,No
+B0198,24,Early Career - Other,25+ LPA,20+ L,1.25 Cr,3-6 months,Both,Bengaluru,Hebbal,Apartment,3 BHK,WFH Space;park;club house;Swimming Pool;Gym,3.0,4,0,No
+B0199,25,Salaried - IT,10-15 LPA,20+ L,39 L,Not sure,Self-use,Hyderabad,Miyapur,Apartment,1bhk,Fitness Centre;WFH Space;coworking;Green Area,1.0,0,0,No
+B0200,24,Freelancer / Gig,10-15 LPA,5-10 L,55 L,6-12 months,Both,Noida,Sector 137,Apartment,2 BHK,Co-working;pet friendly,0.0,2,1,No
+B0201,27,Early Career - Other,10-15 LPA,10-20 L,58 L,0-3 months,Both,Noida,Sector 150,Apartment,2 BHK,Gym;pool;club house,5.0,1,0,Yes
+B0202,27,Salaried - Non-IT,15-25 LPA,5-10 L,83 L,6-12 months,Investment,Hyderabad,Flexible,Apartment,1bhk,Clubhouse;pet friendly;Fitness Centre,4.0,2,0,Yes
+B0203,21,Freelancer / Gig,10-15 LPA,20+ L,46 L,3-6 months,Investment, NOIDA,Flexible,Apartment,1 BHK,coworking;Pet Friendly;EV Charging;WFH Space,2.0,3,1,No
+B0204,23,Salaried - Non-IT,5-10 LPA,5-10 L,39 L,6-12 months,Both,Gurugram,Sector 65,Apartment,1 BHK,Swimming Pool;Fitness Centre;Pet Friendly;park;EV Charging,1.0,3,0,Yes
+B0205,24,Early Career - Other,5-10 LPA,<2 L,25 L,12+ months,Both,Bengaluru,Hebbal,Apartment,2 BHK,Green Area;ev charging;pet friendly;pool,3.0,1,2,No
+B0206,21,Early Career - Other,,5-10 L,35 L,0-3 months,Investment,Gurugram,New Gurgaon,Apartment,1 BHK,Pet Friendly;gym;Swimming Pool;Green Area;Clubhouse,4.0,2,0,Yes
+B0207,28,Salaried - IT,10-15 LPA,20+ L,54 L,0-3 months,Self-use,Hyderabad,Kokapet,Apartment,,Pet Friendly;club house;Green Area,6.0,2,1,No
+B0208,27,Salaried - IT,5-10 LPA,<2 L,25 L,6-12 Months,Self-use,Pune,Wakad,Apartment,2 BHK,Co-working;Pet Friendly;work from home room,0.0,2,0,No
+B0209,27,Salaried - IT,15-25 LPA,10-20 L,55 L,6-12 months,Self-use,Gurugram,Sector 65,Apartment,2 BHK,Fitness Centre;pet friendly,0.0,3,0,No
+B0210,29,Startup / Entrepreneur,5-10 LPA,5-10 L,33 L,0-3 months,Self-use,Pune,Baner,Builder Floor,1 BHK,pet friendly,3.0,1,0,Yes
+B0211,29,Startup / Entrepreneur,<5 LPA,5-10 L,25 L,Not sure,Investment,Pune,Flexible,Apartment,1 BHK,,2.0,0,0,Yes
+B0212,26,Freelancer / Gig,10-15 LPA,5-10 L,58 L,3-6 months,Both,Pune,Baner,Apartment,2 BHK,Pet Friendly;Green area;WFH Space;Clubhouse;gym,4.0,1,5,No
+B0213,23,Early Career - Other,5-10 LPA,<2 L,29 L,3-6 months,Self-use,bangalore,Sarjapur Road,Apartment,1 BHK,wfh space;EV Charging,3.0,1,1,No
+B0214,27,Salaried - Non-IT,5-10 LPA,<2 L,25 L,6-12 months,Investment,Gurugram,Dwarka Expressway,Builder Floor,1 BHK,Gym;pool;ev charging,3.0,1,0,No
+B0215,21,Salaried - IT,15-25 LPA,20+ L,84 L,3-6 months,Investment,Pune,Flexible,Apartment,2 BHK,coworking;EV Charging;gym;Green Area;work from home room,4.0,5,2,Yes
+B0216,22,Freelancer / Gig,5-10 LPA,5-10 L,38 L,6-12 months,Self-use,Gurgaon,Sohna Road,Apartment,1 BHK,gym;Green area;Pet Friendly;co working;Clubhouse,1.0,0,1,No
+B0217,23,Salaried - IT,10-15 LPA,10-20 L,60 L,0-3 months,Self-use,Bengaluru,Sarjapur Road,Apartment,2 BHK,Clubhouse,1.0,1,0,Yes
+B0218,27,Salaried - Non-IT,<5 LPA,<2 L,25 L,12+ months,Self-use,Pune,Hinjewadi,Apartment,2 BHK,,1.0,0,1,Yes
+B0219,26,Salaried - IT,10-15 LPA,5-10 L,70 L,12+ months,Both,Mumbai,Mulund,Apartment,1 BHK,pet friendly;park;Swimming Pool;gym;Co-working,3.0,0,0,No
+B0220,25,Salaried - IT,,20+ L,48 L,3-6 months,Self-use,Gurugram,New Gurgaon,Flat,1 BHK,,1.0,2,0,No
+B0221,27,Freelancer / Gig,5-10 LPA,<2 L,25 L,6-12 months,Self-use,Hyderabad,Flexible,Apartment,1 BHK,WFH Space;Co-working;Fitness Centre;Clubhouse;pool,1.0,4,2,Yes
+B0222,25,Freelancer / Gig,5-10 LPA,5-10 L,37 L,3-6 months,Self-use,Hyderabad,Kondapur,Apartment,2 BHK,Clubhouse;Gym;Green area,3.0,0,2,No
+B0223,27,Salaried - Non-IT,<5 LPA,5-10 L,25 L,3-6 months,Both,Noida,Flexible,Apartment,1 BHK,,4.0,0,1,No
+B0224,24,Salaried - Non-IT,<5 LPA,<2 L,25 L,Not sure,Self-use,Bengaluru,Hebbal,Apartment,1 BHK,,0.0,0,1,Yes
+B0225,29,Salaried - Non-IT,10-15 LPA,5-10 L,39 L,6-12 months,Investment,Pune,Baner,Apartment,1 BHK,Fitness Centre;pool;club house;Green area;work from home room,2.0,1,0,Yes
+B0226,23,Salaried - Non-IT,5-10 LPA,10-20 L,27 L,0-3 months,Self-use,Bengaluru,Whitefield,Apartment,1 BHK,work from home room;Green area;Gym;ev charging,1.0,2,1,No
+B0227,25,Salaried - IT,10-15 LPA,20+ L,75 L,0-3 months,Both,Gurugram,Flexible,Apartment,2 BHK,co working,6.0,0,0,No
+B0228,26,Freelancer / Gig,5-10 LPA,5-10 L,31 L,6-12 months,Self-use,Bengaluru,Flexible,Apartment,2 BHK,,2.0,3,0,No
+B0229,27,Salaried - IT,10-15 LPA,10-20 L,49 L,Not sure,Investment,Noida,Sector 94,Apartment,1 BHK,Swimming Pool;work from home room,1.0,0,0,No
+B0230,28,Early Career - Other,10-15 LPA,2-5 L,67 L,12+ months,Investment,Hyderabad,Gachibowli,Apartment,1 BHK,Pet Friendly,0.0,1,0,No
+B0231,24,Startup / Entrepreneur,15-25 LPA,20+ L,96 L,0-3 months,Both,Noida,Flexible,Apartment,2 BHK,Green Area;gym;Clubhouse;work from home room,1.0,1,0,Yes
+B0232,27,Salaried - IT,<5 LPA,<2 L,25 L,6-12 months,Investment,Hyderabad,Miyapur,Apartment,,work from home room,1.0,0,1,Yes
+B0233,27,Salaried - Non-IT,15-25 LPA,20+ L,54 L,3-6 months,Self-use,Pune,Hinjewadi,Builder Floor,1 BHK,Green area;pet friendly,2.0,1,4,No
+B0234,21,Salaried - IT,,20+ L,65 L,6-12 months,Self-use,Gurugram,Sector 65,Apartment,2 BHK,co working;Fitness Centre;work from home room,1.0,0,1,No
+B0235,21,Salaried - Non-IT,<5 LPA,<2 L,25 L,12+ months,Self-use,Pune,Flexible,Apartment,1 BHK,Green area;Swimming Pool;Pet Friendly;gym;Co-working,2.0,0,0,No
+B0236,25,Freelancer / Gig,10-15 LPA,10-20 L,62 L,6-12 months,Both,Pune,Kharadi,Apartment,2 BHK,,1.0,1,1,No
+B0237,21,Salaried - Non-IT,5-10 LPA,2-5 L,25 L,3-6 months,Both,Noida,Flexible,Apartment,1 BHK,,5.0,4,1,Yes
+B0238,22,Salaried - IT,10-15 LPA,2-5 L,44 L,Not sure,Both,Noida,Sector 137,Apartment,1 BHK,work from home room,0.0,0,1,No
+B0239,28,Salaried - Non-IT,25+ LPA,20+ L,94 L,12+ months,Self-use,Hyderabad,Gachibowli,Apartment,2 BHK,,0.0,1,0,No
+B0240,21,Early Career - Other,5-10 LPA,10-20 L,34 L,6-12 months,Self-use,Bengaluru,Flexible,Apartment,1bhk,Swimming Pool;gym,4.0,3,0,No
+B0241,24,Salaried - IT,<5 LPA,2-5 L,25 L,3-6 months,Both,Bengaluru,Flexible,Apartment,1 BHK,work from home room;EV Charging;co working;Clubhouse,0.0,4,0,No
+B0242,25,Salaried - IT,10-15 LPA,20+ L,56 L,6-12 months,Self-use,Bengaluru,Electronic City,Apartment,2 BHK,co working;pool,0.0,0,1,No
+B0243,25,Early Career - Other,5-10 LPA,10-20 L,25 L,0-3 months,Self-use,Pune,Flexible,Apartment,1 BHK,,2.0,4,0,Yes
+B0244,23,Freelancer / Gig,15-25 LPA,20+ L,90 L,6-12 months,Both,Bengaluru,Hebbal,Apartment,2 BHK,club house;work from home room;pet friendly;Fitness Centre,1.0,0,0,No
+B0245,26,Salaried - IT,25+ LPA,20+ L,1.25 Cr,0-3 months,Self-use,Gurugram,New Gurgaon,Apartment,3 BHK,gym,2.0,3,1,No
+B0246,28,Early Career - Other,5-10 LPA,10-20 L,27 L,3-6 months,Both,Mumbai,Kandivali,,1 BHK,WFH Space;Gym;Pet Friendly,3.0,3,1,No
+B0247,29,Salaried - Non-IT,<5 LPA,<2 L,25 L,6-12 months,Self-use,Noida,Sector 150,Apartment,1 BHK,work from home room;Green area;Fitness Centre;ev charging,2.0,0,1,No
+B0248,22,Salaried - Non-IT,25+ LPA,20+ L,1.70 Cr,Not sure,Both,Bengaluru,Sarjapur Road,Apartment,3 BHK,,1.0,0,0,No
+B0249,21,Salaried - Non-IT,10-15 LPA,2-5 L,49 L,Not sure,Self-use, GURUGRAM,Sector 65,Apartment,1 BHK,ev charging;Swimming Pool,0.0,1,0,No
+B0250,27,Freelancer / Gig,<5 LPA,5-10 L,25 L,6-12 months,Self-use,Gurugram,Sector 65,Apartment,1 BHK,ev charging;club house;Green Area;work from home room,2.0,1,1,No
+B0251,25,Early Career - Other,5-10 LPA,5-10 L,40 L,Not sure,Self-use,Bengaluru,Whitefield,Apartment,1 BHK,park;gym;Clubhouse;EV Charging,2.0,0,0,No
+B0252,23,Startup / Entrepreneur,5-10 LPA,2-5 L,32 L,6-12 months,Self-use,Bengaluru,Whitefield,Builder Floor,2 BHK,work from home room;Swimming Pool;Co-working;Green Area;pet friendly,5.0,4,0,No
+B0253,25,Salaried - IT,10-15 LPA,2-5 L,44 L,12+ Months,Investment,Mumbai,Flexible,Apartment,1 BHK,club house;Pet Friendly,0.0,2,0,No
+B0254,23,Freelancer / Gig,10-15 LPA,5-10 L,74 L,Not Sure,Self-use,Bengaluru,Whitefield,Apartment,2 BHK,ev charging;coworking;Fitness Centre;Pet Friendly;Swimming Pool,1.0,0,0,No
+B0255,22,Startup / Entrepreneur,5-10 LPA,<2 L,25 L,12+ months,Self-use,Mumbai,Flexible,Apartment,1 BHK,Fitness Centre;WFH Space,1.0,2,0,No
+B0256,21,Salaried - IT,10-15 LPA,10-20 L,68 L,12+ months,Self-use,Hyderabad,Kokapet,Apartment,2 BHK,Green area;EV Charging;club house;pet friendly,1.0,3,0,No
+B0257,27,Salaried - IT,10-15 LPA,2-5 L,74 L,12+ Months,Self-use,Pune,Hinjewadi,Apartment,2 BHK,work from home room;coworking;Gym;Pet Friendly,0.0,0,0,No
+B0258,29,Early Career - Other,10-15 LPA,2-5 L,65 L,Not sure,Both,Bengaluru,Hebbal,Apartment,2 BHK,Green Area;pool;Pet Friendly,2.0,0,1,No
+B0259,27,Salaried - IT,5-10 LPA,10-20 L,25 L,6-12 months,Investment,Bengaluru,Flexible,Apartment,1 BHK,Clubhouse;WFH Space;coworking;Gym,3.0,1,0,Yes
+B0260,27,Salaried - Non-IT,15-25 LPA,5-10 L,1.02 Cr,12+ months,Both,Bengaluru,Sarjapur Road,Apartment,2bhk,club house;Swimming Pool;Gym;work from home room;ev charging,0.0,0,2,No
+B0261,22,Freelancer / Gig,<5 LPA,<2 L,25 L,6-12 Months,Self-use,Noida,Greater Noida West,Builder Floor,1bhk,gym;coworking,2.0,1,0,No
+B0262,22,Salaried - IT,15-25 LPA,20+ L,98 L,3-6 months,Both,Pune,Hinjewadi,Apartment,2 BHK,Co-working;Fitness Centre;work from home room;club house,2.0,2,1,No
+B0263,25,Salaried - Non-IT,,2-5 L,70 L,6-12 months,Self-use,Pune,Kharadi,Apartment,2 BHK,Swimming Pool;Green Area;Gym,0.0,3,1,No
+B0264,25,Salaried - Non-IT,5-10 LPA,10-20 L,28 L,6-12 months,Both,Gurugram,Flexible,,1 BHK,Clubhouse;gym,0.0,1,1,No
+B0265,26,Early Career - Other,5-10 LPA,2-5 L,25 L,0-3 months,Investment,Gurugram,New Gurgaon,Apartment,1 BHK,WFH Space;co working;club house;ev charging;pet friendly,4.0,4,0,Yes
+B0266,28,Early Career - Other,15-25 LPA,20+ L,68 L,12+ months,Self-use,Pune,Wakad,Apartment,3 BHK,pet friendly;park;EV Charging;co working,3.0,0,0,No
+B0267,26,Salaried - Non-IT,10-15 LPA,2-5 L,74 L,Not sure,Self-use,Bengaluru,Electronic City,Builder Floor,2 BHK,EV Charging;Swimming Pool;pet friendly;Gym;club house,1.0,0,0,No
+B0268,23,Salaried - IT,10-15 LPA,20+ L,46 L,0-3 months,Both,Gurugram,Sohna Road,Apartment,1 BHK,EV Charging,6.0,4,3,No
+B0269,29,Freelancer / Gig,5-10 LPA,<2 L,34 L,Not sure,Both,Pune,Baner,Builder Floor,1 BHK,park;work from home room;Co-working;ev charging,0.0,1,1,No
+B0270,26,Early Career - Other,5-10 LPA,5-10 L,41 L,Not sure,Both,Bengaluru,Whitefield,Apartment,1 BHK,Green area;pool;gym,0.0,0,0,No
+B0271,24,Early Career - Other,5-10 LPA,2-5 L,27 L,12+ months,Self-use,Noida,Greater Noida West,Apartment,1 BHK,pet friendly;Fitness Centre;park;EV Charging;Swimming Pool,0.0,1,0,No
+B0272,28,Salaried - IT,15-25 LPA,20+ L,96 L,6-12 months,Investment,Gurugram,Sector 65,Builder Floor,2 BHK,pet friendly,2.0,0,1,No
+B0273,25,Salaried - IT,10-15 LPA,10-20 L,69 L,0-3 months,Self-use,Pune,Baner,,2 BHK,Green area;Pet Friendly;WFH Space;gym;co working,3.0,3,0,No
+B0274,23,Salaried - IT,10-15 LPA,10-20 L,39 L,Not sure,Both,Hyderabad,Flexible,Apartment,1 BHK,work from home room;Gym,0.0,1,0,No
+B0275,23,Freelancer / Gig,<5 LPA,<2 L,25 L,6-12 months,Self-use,Hyderabad,Gachibowli,Builder Floor,1bhk,,2.0,3,2,Yes
+B0276,26,Freelancer / Gig,10-15 LPA,20+ L,57 L,3-6 months,Both,Bengaluru,Electronic City,Builder Floor,2 BHK,WFH Space,1.0,2,0,Yes
+B0277,26,Salaried - IT,15-25 LPA,10-20 L,95 L,12+ months,Both,Gurugram,Sohna Road,Apartment,3 BHK,wfh space;Co-working;Gym;pet friendly,1.0,0,0,Yes
+B0278,26,Early Career - Other,5-10 LPA,2-5 L,39 L,6-12 months,Investment,Pune,Kharadi,Apartment,1bhk,,0.0,1,1,No
+B0279,23,Salaried - Non-IT,10-15 LPA,10-20 L,64 L,0-3 months,Self-use,Hyderabad,Kondapur,Apartment,2 BHK,park;gym;Pet Friendly,2.0,0,0,Yes
+B0280,26,Salaried - Non-IT,5-10 LPA,10-20 L,33 L,12+ months,Self-use,Bengaluru,Hebbal,Apartment,1 BHK,,0.0,0,0,No
+B0281,23,Salaried - IT,5-10 LPA,10-20 L,25 L,,Both,Bengaluru,Sarjapur Road,Apartment,1 BHK,work from home room;club house,3.0,2,3,No
+B0282,26,Salaried - Non-IT,25+ LPA,20+ L,1.76 Cr,Not sure,Self-use,Hyderabad,Kokapet,Apartment,2 BHK,Green Area,0.0,0,0,Yes
+B0283,26,Freelancer / Gig,5-10 LPA,5-10 L,28 L,3-6 months,Both,Hyderabad,Kokapet,Apartment,1 BHK,Swimming Pool;ev charging,1.0,0,0,No
+B0284,21,Salaried - Non-IT,5-10 LPA,2-5 L,35 L,3-6 months,Self-use, NOIDA,Sector 137,,1 BHK,WFH Space;park;ev charging;Pet Friendly,3.0,3,2,No
+B0285,26,Freelancer / Gig,10-15 LPA,2-5 L,50 L,3-6 months,Self-use,Mumbai,Thane,Apartment,2 BHK,,,1,0,No
+B0286,22,Salaried - IT,,5-10 L,46 L,6-12 months,Self-use,Pune,Baner,Apartment,1 BHK,co working;work from home room;ev charging;Swimming Pool;Pet Friendly,2.0,0,0,No
+B0287,22,Salaried - Non-IT,15-25 LPA,20+ L,1.02 Cr,6-12 months,Both,Bengaluru,Flexible,Builder Floor,2 BHK,Co-working;gym;WFH Space;Swimming Pool;Clubhouse,4.0,0,2,No
+B0288,21,Salaried - IT,5-10 LPA,2-5 L,25 L,12+ months,Self-use,Noida,Sector 137,Apartment,1 BHK,Green area;work from home room;Co-working,1.0,0,0,No
+B0289,28,Salaried - IT,15-25 LPA,5-10 L,80 L,6-12 months,Investment,Hyderabad,Flexible,Apartment,2 BHK,work from home room;gym;Clubhouse;Swimming Pool,2.0,2,1,Yes
+B0290,25,Salaried - IT,5-10 LPA,2-5 L,28 L,0-3 months,Self-use,Mumbai,Mulund,Apartment,1 BHK,park;co working;club house;gym,3.0,3,0,Yes
+B0291,22,Salaried - Non-IT,<5 LPA,<2 L,25 L,0-3 months,Both,Hyderabad,Flexible,Apartment,1 BHK,pet friendly;work from home room;pool;Fitness Centre;co working,1.0,4,0,No
+B0292,25,Salaried - IT,15-25 LPA,,58 L,6-12 months,Both,Bengaluru,Hebbal,Builder Floor,2 BHK,club house;Pet Friendly;park;wfh space;coworking,5.0,1,1,No
+B0293,23,Startup / Entrepreneur,5-10 LPA,10-20 L,41 L,Not sure,Self-use,Hyderabad,Kokapet,Apartment,1 BHK,gym;Clubhouse;coworking;Green area,0.0,1,0,No
+B0294,27,Salaried - IT,5-10 LPA,5-10 L,36 L,3-6 months,Both,Gurugram,Sohna Road,Apartment,1 BHK,,1.0,1,0,No
+B0295,25,Salaried - Non-IT,5-10 LPA,10-20 L,40 L,3-6 months,Both,Noida,Flexible,,1 BHK,coworking;pet friendly;Gym;pool,3.0,2,1,Yes
+B0296,24,Early Career - Other,5-10 LPA,5-10 L,34 L,3-6 months,Self-use,Noida,Greater Noida West,Apartment,1 BHK,EV Charging;Swimming Pool;Green area,6.0,2,0,Yes
+B0297,26,Early Career - Other,5-10 LPA,10-20 L,29 L,3-6 months,Self-use,Hyderabad,Flexible,Apartment,1 BHK,Gym;co working,2.0,5,1,No
+B0298,24,Salaried - IT,10-15 LPA,2-5 L,35 L,6-12 months,Both,Pune,Kharadi,Apartment,2 BHK,Swimming Pool;club house,1.0,2,0,Yes
+B0299,25,Salaried - Non-IT,10-15 LPA,5-10 L,39 L,Not sure,Self-use,Bengaluru,Flexible,Apartment,1bhk,ev charging;club house;park;Pet Friendly,0.0,1,0,No
+B0300,24,Startup / Entrepreneur,15-25 LPA,5-10 L,94 L,6-12 months,Self-use,Pune,Hinjewadi,Builder Floor,2 BHK,Pet Friendly,0.0,0,1,No
+B0301,24,Startup / Entrepreneur,<5 LPA,,25 L,6-12 months,Self-use,Bengaluru,Whitefield,Apartment,2 BHK,,1.0,2,1,No
+B0302,23,Salaried - Non-IT,10-15 LPA,2-5 L,63 L,12+ months,Both,Pune,Hinjewadi,Apartment,2 BHK,park;Fitness Centre,2.0,1,0,No
+B0303,26,Early Career - Other,25+ LPA,20+ L,1.24 Cr,Not sure,Self-use,Mumbai,Kandivali,Apartment,3 BHK,wfh space;park;club house;Swimming Pool,,0,0,No
+B0304,25,Freelancer / Gig,5-10 LPA,2-5 L,41 L,6-12 months,Self-use, MUMBAI,Navi Mumbai,Apartment,1 BHK,co working,3.0,0,0,No
+B0305,23,Salaried - Non-IT,15-25 LPA,5-10 L,72 L,3-6 months,Self-use,Bengaluru,Whitefield,Apartment,2 BHK,club house;Green Area;pet friendly;pool;wfh space,0.0,3,0,No
+B0306,27,Freelancer / Gig,15-25 LPA,10-20 L,1.16 Cr,3-6 months,Self-use,Bengaluru,Flexible,Flat,3 BHK,work from home room;park;co working,2.0,2,0,No
+B0307,29,Freelancer / Gig,10-15 LPA,5-10 L,49 L,12+ months,Self-use,Hyderabad,Flexible,Builder Floor,1 BHK,pool;coworking,3.0,0,0,No
+B0308,23,Freelancer / Gig,15-25 LPA,20+ L,1.05 Cr,6-12 months,Investment,Gurugram,New Gurgaon,Apartment,2 BHK,EV Charging;Green Area;co working;Pet Friendly;work from home room,3.0,4,1,No
+B0309,23,Salaried - IT,15-25 LPA,20+ L,67 L,0-3 months,Both,Gurugram,New Gurgaon,Apartment,2 BHK,Swimming Pool,1.0,0,0,Yes
+B0310,26,Early Career - Other,5-10 LPA,2-5 L,25 L,6-12 months,Both,Gurugram,Sohna Road,Apartment,1 BHK,ev charging,2.0,1,0,No
+B0311,25,Freelancer / Gig,5-10 LPA,2-5 L,28 L,0-3 months,Both,Mumbai,Navi Mumbai,Apartment,1 BHK,Co-working,2.0,0,3,Yes
+B0312,25,Salaried - Non-IT,5-10 LPA,<2 L,25 L,12+ months,Self-use,Pune,Flexible,Apartment,1 BHK,gym;pet friendly;pool;Green area;ev charging,0.0,2,0,No
+B0313,27,Freelancer / Gig,5-10 LPA,5-10 L,37 L,3-6 months,Both,Gurugram,Sohna Road,Apartment,1 BHK,park;Clubhouse;pet friendly;WFH Space,3.0,2,0,Yes
+B0314,21,Salaried - Non-IT,25+ LPA,20+ L,1.20 Cr,Not sure,Self-use,Gurugram,Dwarka Expressway,Apartment,3 BHK,co working;Clubhouse;pool;Pet Friendly;Gym,0.0,0,0,No
+B0315,25,Early Career - Other,10-15 LPA,5-10 L,38 L,6-12 months,Self-use,Bengaluru,Whitefield,Apartment,1 BHK,Fitness Centre;Green area;WFH Space,2.0,1,0,No
+B0316,27,Freelancer / Gig,<5 LPA,<2 L,25 L,Not sure,Both,,Gachibowli,Apartment,1bhk,Pet Friendly;work from home room;Fitness Centre,2.0,0,0,No
+B0317,22,Salaried - IT,10-15 LPA,5-10 L,34 L,3-6 Months,Both,Hyderabad,Gachibowli,Apartment,1 BHK,Swimming Pool;pet friendly;coworking,1.0,1,1,Yes
+B0318,24,Salaried - Non-IT,25+ LPA,10-20 L,104 L,12+ months,Self-use,Bengaluru,Flexible,Apartment,2 BHK,Green area,1.0,2,0,No
+B0319,23,Salaried - IT,5-10 LPA,<2 L,25 L,12+ months,Self-use,Gurugram,Sector 65,Apartment,1 BHK,WFH Space,3.0,1,0,No
+B0320,26,Salaried - Non-IT,5-10 LPA,2-5 L,40 L,0-3 months,Both,Pune,Flexible,Apartment,1 BHK,park;ev charging;Swimming Pool;pet friendly,0.0,5,0,No
+B0321,25,Early Career - Other,10-15 LPA,2-5 L,42 L,Not sure,Self-use,Hyderabad,Kondapur,Apartment,1 BHK,club house,0.0,0,0,No
+B0322,25,Startup / Entrepreneur,<5 LPA,2-5 L,25 L,Not sure,Self-use,Pune,Baner,Apartment,1 BHK,park,0.0,0,0,Yes
+B0323,21,Salaried - IT,15-25 LPA,20+ L,62 L,0-3 months,Both,Gurugram,Dwarka Expressway,Builder Floor,2 BHK,pet friendly;co working,3.0,5,1,No
+B0324,24,Early Career - Other,,<2 L,25 L,6-12 Months,Both,Bengaluru,Flexible,Apartment,1 BHK,Green area,3.0,2,1,No
+B0325,26,Early Career - Other,5-10 LPA,5-10 L,30 L,0-3 months,Self-use,Bengaluru,Electronic City,Apartment,1bhk,Pet Friendly;Gym;Co-working,2.0,4,2,Yes
+B0326,29,Salaried - IT,25+ LPA,20+ L,1.67 Cr,6-12 months,Self-use,Bengaluru,Whitefield,Apartment,3 BHK,Fitness Centre;Clubhouse,4.0,1,1,Yes
+B0327,27,Salaried - IT,5-10 LPA,<2 L,25 L,3-6 months,Self-use,Hyderabad,Flexible,Apartment,1 BHK,,2.0,3,0,No
+B0328,27,Salaried - IT,5-10 LPA,2-5 L,29 L,3-6 months,Self-use,Bengaluru,Hebbal,Apartment,1 BHK,co working;Green Area;ev charging,8.0,1,0,Yes
+B0329,28,Salaried - Non-IT,<5 LPA,2-5 L,25 L,0-3 months,Self-use, PUNE,Flexible,Builder Floor,1 BHK,,4.0,4,0,Yes
+B0330,22,Salaried - IT,15-25 LPA,10-20 L,92 L,12+ months,Both,Bengaluru,Sarjapur Road,Apartment,2 BHK,pet friendly;Clubhouse;Fitness Centre;Green Area;pool,2.0,0,0,No
+B0331,22,Startup / Entrepreneur,5-10 LPA,<2 L,25 L,0-3 months,Both,Bengaluru,Sarjapur Road,Apartment,1 BHK,Green area;club house;co working,3.0,0,0,Yes
+B0332,28,Early Career - Other,10-15 LPA,10-20 L,71 L,3-6 months,Investment,Bengaluru,Hebbal,Apartment,1 BHK,,0.0,4,0,Yes
+B0333,23,Freelancer / Gig,5-10 LPA,<2 L,38 L,12+ months,Investment,Noida,Sector 150,Apartment,1 BHK,EV Charging,1.0,1,0,No
+B0334,23,Salaried - Non-IT,5-10 LPA,<2 L,27 L,Not sure,Self-use,Noida,Sector 150,Apartment,1bhk,pet friendly;work from home room;park;pool;EV Charging,1.0,1,0,No
+B0335,24,Freelancer / Gig,5-10 LPA,2-5 L,26 L,3-6 months,Both,Pune,Flexible,Flat,1 BHK,,4.0,2,1,No
+B0336,27,Salaried - IT,5-10 LPA,2-5 L,35 L,12+ months,Investment,Pune,Wakad,Apartment,1 BHK,,2.0,1,1,No
+B0337,17,Salaried - Non-IT,10-15 LPA,20+ L,71 L,0-3 months,Both,Noida,Flexible,Apartment,2 BHK,Green Area;club house;co working;gym;Swimming Pool,8.0,2,2,Yes
+B0338,24,Freelancer / Gig,<5 LPA,<2 L,25 L,12+ Months,Self-use,Bengaluru,Hebbal,Apartment,1 BHK,Green area;Clubhouse;WFH Space,1.0,1,0,No
+B0339,23,Startup / Entrepreneur,15-25 LPA,5-10 L,66 L,,Both,Noida,Sector 150,Apartment,2 BHK,work from home room;Co-working;Green Area;club house,0.0,0,0,No
+B0340,22,Salaried - IT,10-15 LPA,10-20 L,45 L,0-3 Months,Investment,Gurgaon,New Gurgaon,Apartment,1 BHK,,4.0,6,1,Yes
+B0341,23,Early Career - Other,5-10 LPA,2-5 L,25 L,6-12 months,Self-use,Noida,Sector 137,Apartment,1bhk,Fitness Centre,1.0,1,0,No
+B0342,26,Salaried - IT,5-10 LPA,5-10 L,42 L,12+ months,Both, BENGALURU,Sarjapur Road,Apartment,1 BHK,club house;Swimming Pool;EV Charging;Gym;park,,1,0,No
+B0343,24,Early Career - Other,<5 LPA,2-5 L,25 L,3-6 months,Both,Mumbai,Flexible,Apartment,1 BHK,park;club house;Pet Friendly,1.0,2,1,No
+B0344,26,Salaried - IT,10-15 LPA,20+ L,46 L,0-3 months,Self-use,Bengaluru,Flexible,Apartment,1 BHK,,5.0,2,0,Yes
+B0345,23,Freelancer / Gig,15-25 LPA,5-10 L,89 L,12+ months,Both,Mumbai,Thane,Apartment,3 BHK,Gym;club house;EV Charging,0.0,0,0,No
+B0346,22,Early Career - Other,5-10 LPA,<2 L,33 L,6-12 months,Self-use,Noida,Greater Noida West,Apartment,1 BHK,club house;gym;Swimming Pool,1.0,0,1,No
+B0347,29,Early Career - Other,5-10 LPA,<2 L,30 L,Not sure,Self-use,Noida,Sector 137,Apartment,1 BHK,WFH Space;Pet Friendly;pool,1.0,0,0,No
+B0348,22,Salaried - Non-IT,15-25 LPA,20+ L,67 L,0-3 months,Self-use,Pune,Flexible,Apartment,2 BHK,Gym;club house,3.0,2,1,No
+B0349,24,Early Career - Other,15-25 LPA,20+ L,73 L,0-3 months,Self-use,Hyderabad,Miyapur,Flat,2 BHK,Gym;pet friendly;Swimming Pool;club house,5.0,0,0,Yes
+B0350,22,Salaried - IT,25+ LPA,20+ L,1.73 Cr,6-12 months,Both,Hyderabad,Gachibowli,Apartment,3 BHK,,0.0,1,0,No
+B0351,15,Salaried - Non-IT,5-10 LPA,10-20 L,31 L,6-12 months,Self-use,Mumbai,Navi Mumbai,Apartment,1 BHK,Green Area,3.0,1,1,Yes
+B0352,21,Salaried - IT,10-15 LPA,10-20 L,71 L,3-6 months,Self-use,Noida,Sector 94,Apartment,3 BHK,pool;co working;Green Area;Pet Friendly;work from home room,2.0,0,1,Yes
+B0353,23,Startup / Entrepreneur,5-10 LPA,<2 L,38 L,12+ months,Both,Bengaluru,Whitefield,Builder Floor,1 BHK,gym;park;pet friendly,0.0,1,0,No
+B0354,26,Startup / Entrepreneur,5-10 LPA,10-20 L,30 L,3-6 months,Self-use,Bengaluru,Sarjapur Road,Flat,1 BHK,coworking;EV Charging;gym;WFH Space,3.0,0,0,Yes
+B0355,27,Salaried - Non-IT,,10-20 L,25 L,3-6 months,Both,Gurugram,Dwarka Expressway,Apartment,1 BHK,pet friendly;WFH Space;ev charging;park;gym,2.0,2,0,Yes
+B0356,27,Salaried - IT,<5 LPA,<2 L,25 L,,Self-use,Noida,Flexible,Apartment,1 BHK,Gym;work from home room;Swimming Pool,0.0,1,0,No
+B0357,24,Salaried - Non-IT,10-15 LPA,10-20 L,63 L,Not sure,Self-use,Bengaluru,Electronic City,Apartment,2 BHK,pool,1.0,1,0,No
+B0358,27,Salaried - Non-IT,<5 LPA,5-10 L,25 L,12+ months,Both,Bengaluru,Electronic City,Apartment,1 BHK,,1.0,0,0,Yes
+B0359,26,Salaried - IT,5-10 LPA,2-5 L,41 L,6-12 months,Investment,Mumbai,Kandivali,Apartment,1 BHK,Green Area;ev charging;wfh space,3.0,0,1,Yes
+B0360,24,Salaried - IT,15-25 LPA,5-10 L,99 L,0-3 months,Investment,Gurugram,Flexible,Flat,1 BHK,WFH Space;pet friendly;gym;co working;Swimming Pool,2.0,0,0,No
+B0361,25,Salaried - IT,10-15 LPA,5-10 L,59 L,3-6 months,Self-use,Noida,Greater Noida West,Builder Floor,2bhk,Clubhouse,2.0,3,0,No
+B0362,24,Salaried - IT,5-10 LPA,<2 L,25 L,3-6 months,Both,Hyderabad,Gachibowli,Apartment,1 BHK,Green Area;Pet Friendly;club house;pool;wfh space,4.0,3,0,No
+B0363,27,Salaried - IT,25+ LPA,20+ L,1.36 Cr,12+ months,Investment,Bengaluru,Electronic City,Apartment,3 BHK,pet friendly;Green area;coworking;work from home room,1.0,0,0,No
+B0364,22,Salaried - IT,5-10 LPA,2-5 L,45 L,6-12 months,Both,Noida,Flexible,Builder Floor,1 BHK,club house,1.0,1,0,No
+B0365,24,Salaried - IT,15-25 LPA,,75 L,3-6 months,Both, NOIDA,Greater Noida West,Apartment,2 BHK,Green area,5.0,3,0,No
+B0366,25,Salaried - IT,25+ LPA,20+ L,1.44 Cr,Not sure,Investment,Mumbai,Kandivali,Apartment,3 BHK,coworking;wfh space;Fitness Centre;Green area;Pet Friendly,1.0,1,0,No
+B0367,23,Freelancer / Gig,10-15 LPA,20+ L,32 L,6-12 Months,Self-use,Gurugram,New Gurgaon,Apartment,1 BHK,WFH Space,4.0,0,0,No
+B0368,27,Salaried - Non-IT,5-10 LPA,10-20 L,27 L,3-6 months,Both,Bengaluru,Electronic City,Apartment,2 BHK,WFH Space;Fitness Centre;club house;pool;pet friendly,4.0,1,0,Yes
+B0369,28,Salaried - IT,25+ LPA,20+ L,1.00 Cr,3-6 months,Both,Noida,Sector 137,,3 BHK,WFH Space;co working;EV Charging,2.0,0,1,Yes
+B0370,21,Early Career - Other,5-10 LPA,10-20 L,45 L,12+ months,Self-use,Hyderabad,Flexible,Flat,2 BHK,gym;Green Area;Pet Friendly;pool;Clubhouse,0.0,1,0,No
+B0371,24,Salaried - IT,10-15 LPA,2-5 L,70 L,6-12 months,Both,Noida,Greater Noida West,Apartment,2 BHK,Pet Friendly;park,3.0,1,1,No
+B0372,29,Salaried - IT,10-15 LPA,10-20 L,65 L,0-3 months,Self-use,Bengaluru,Flexible,Apartment,2 BHK,,2.0,3,1,No
+B0373,22,Freelancer / Gig,5-10 LPA,2-5 L,32 L,6-12 months,Self-use,Noida,Sector 150,Apartment,1 BHK,,2.0,0,0,No
+B0374,24,Salaried - Non-IT,10-15 LPA,10-20 L,64 L,Not sure,Self-use,Bengaluru,Electronic City,Apartment,2 BHK,Clubhouse,1.0,1,0,No
+B0375,24,Salaried - Non-IT,5-10 LPA,5-10 L,30 L,0-3 months,Both,Pune,Flexible,Apartment,1 BHK,,2.0,4,0,Yes
+B0376,25,Salaried - IT,15-25 LPA,20+ L,92 L,6-12 months,Both,Hyderabad,Gachibowli,Apartment,2 BHK,,3.0,1,0,Yes
+B0377,28,Startup / Entrepreneur,25+ LPA,20+ L,106 L,3-6 months,Self-use,Noida,Sector 137,Apartment,2 BHK,club house;WFH Space;Pet Friendly;ev charging,4.0,2,0,No
+B0378,26,Freelancer / Gig,5-10 LPA,10-20 L,30 L,Not sure,Self-use,Hyderabad,Miyapur,Apartment,,coworking;pet friendly;EV Charging;park;pool,1.0,1,0,No
+B0379,22,Salaried - Non-IT,10-15 LPA,20+ L,34 L,3-6 months,Self-use,Noida,Greater Noida West,Apartment,2 BHK,park;ev charging;Pet Friendly;Swimming Pool;club house,4.0,3,0,Yes
+B0380,27,Early Career - Other,15-25 LPA,20+ L,57 L,6-12 months,Self-use,Noida,Sector 150,Flat,1 BHK,,1.0,3,0,No
+B0381,29,Salaried - IT,5-10 LPA,<2 L,29 L,6-12 months,Self-use,Gurugram,Flexible,Apartment,1 BHK,Co-working;pet friendly,3.0,3,0,No
+B0382,24,Early Career - Other,5-10 LPA,10-20 L,27 L,3-6 months,Self-use,Gurugram,Sector 65,Apartment,1 BHK,,3.0,0,1,Yes
+B0383,29,Salaried - IT,10-15 LPA,5-10 L,46 L,3-6 months,Self-use,Gurugram,Flexible,Apartment,1 BHK,work from home room;co working;Pet Friendly,4.0,2,0,No
+B0384,25,Salaried - IT,15-25 LPA,20+ L,1.09 Cr,Not sure,Both,Bengaluru,Hebbal,Apartment,2 BHK,park;Co-working;pool;club house,1.0,1,1,No
+B0385,23,Salaried - IT,10-15 LPA,10-20 L,58 L,3-6 months,Self-use,Hyderabad,Kondapur,Apartment,2 BHK,park,2.0,3,0,Yes
+B0386,29,Early Career - Other,5-10 LPA,2-5 L,35 L,6-12 months,Both,Hyderabad,Gachibowli,Apartment,1 BHK,pet friendly;Green Area,3.0,0,0,No
+B0387,27,Early Career - Other,5-10 LPA,2-5 L,25 L,12+ months,Self-use,Gurugram,Sohna Road,Apartment,1 BHK,,1.0,0,0,No
+B0388,28,Freelancer / Gig,25+ LPA,20+ L,85 L,6-12 months,Self-use,Pune,Baner,Builder Floor,2 BHK,Swimming Pool;Fitness Centre;EV Charging,3.0,0,0,Yes
+B0389,23,Salaried - Non-IT,15-25 LPA,5-10 L,1.02 Cr,Not sure,Self-use,Hyderabad,Gachibowli,Apartment,3 BHK,pool;pet friendly;Gym;Green area;EV Charging,0.0,0,1,No
+B0390,25,Early Career - Other,5-10 LPA,<2 L,30 L,,Self-use,Gurugram,New Gurgaon,,1 BHK,EV Charging;park;Clubhouse;pool,1.0,1,0,No
+B0391,24,Salaried - Non-IT,5-10 LPA,2-5 L,45 L,Not sure,Investment,Pune,Kharadi,Builder Floor,1bhk,park;gym;pool;pet friendly;co working,1.0,0,0,No
+B0392,29,Freelancer / Gig,<5 LPA,<2 L,25 L,3-6 months,Both,Mumbai,Kandivali,Apartment,1 BHK,,5.0,3,1,No
+B0393,28,Startup / Entrepreneur,5-10 LPA,2-5 L,27 L,12+ months,Both,Hyderabad,Flexible,Flat,,wfh space;pool;EV Charging;pet friendly;co working,1.0,0,1,No
+B0394,23,Salaried - Non-IT,15-25 LPA,5-10 L,117 L,12+ months,Both, PUNE,Hinjewadi,Apartment,3 BHK,WFH Space;Green area;Fitness Centre;club house,0.0,3,0,No
+B0395,26,Early Career - Other,5-10 LPA,<2 L,25 L,12+ months,Self-use,Bengaluru,Hebbal,Apartment,,gym;Green Area;Pet Friendly;pool,5.0,3,0,No
+B0396,23,Salaried - Non-IT,10-15 LPA,20+ L,62 L,0-3 months,Self-use,Pune,Wakad,Apartment,2 BHK,pool;park;pet friendly,6.0,5,0,Yes
+B0397,24,Early Career - Other,25+ LPA,20+ L,1.62 Cr,6-12 months,Investment,Gurugram,Dwarka Expressway,Apartment,2 BHK,Gym;Swimming Pool,5.0,2,0,No
+B0398,25,Salaried - Non-IT,5-10 LPA,10-20 L,32 L,0-3 months,Self-use,bangalore,Electronic City,Apartment,2 BHK,,4.0,2,1,Yes
+B0399,29,Salaried - IT,25+ LPA,10-20 L,1.79 Cr,Not sure,Self-use,Noida,Flexible,Apartment,3 BHK,,0.0,0,0,No
+B0400,23,Salaried - IT,15-25 LPA,20+ L,69 L,3-6 months,Both,Noida,Sector 137,Apartment,2 BHK,Gym;pet friendly;Clubhouse,5.0,2,1,No
+B0401,26,Early Career - Other,5-10 LPA,10-20 L,43 L,6-12 months,Self-use,Hyderabad,Kokapet,Builder Floor,1 BHK,Swimming Pool;club house;EV Charging;Green area;pet friendly,4.0,2,0,No
+B0402,27,Startup / Entrepreneur,5-10 LPA,2-5 L,32 L,12+ months,Both,Bengaluru,Whitefield,Builder Floor,1 BHK,Green Area,0.0,3,1,No
+B0403,27,Early Career - Other,10-15 LPA,10-20 L,71 L,12+ months,Self-use,Pune,Flexible,Apartment,2 BHK,ev charging;WFH Space;Fitness Centre,0.0,0,1,No
+B0404,23,Salaried - IT,10-15 LPA,5-10 L,45 L,Not sure,Self-use,Mumbai,Mulund,,1bhk,pool;Green area;club house;gym;work from home room,0.0,0,0,No
+B0405,28,Salaried - IT,10-15 LPA,10-20 L,58 L,6-12 months,Both, BENGALURU,Whitefield,Apartment,2 BHK,co working;WFH Space,3.0,1,0,No
+B0406,27,Freelancer / Gig,15-25 LPA,5-10 L,94 L,12+ months,Investment,Mumbai,Flexible,Builder Floor,2 BHK,Green area;coworking;wfh space;Pet Friendly;gym,0.0,0,0,No
+B0407,26,Salaried - Non-IT,10-15 LPA,10-20 L,70 L,3-6 months,Self-use,Hyderabad,Gachibowli,Apartment,2 BHK,EV Charging;co working,4.0,0,0,No
+B0408,23,Salaried - Non-IT,25+ LPA,20+ L,1.40 Cr,12+ months,Investment,Pune,Hinjewadi,Apartment,3 BHK,,0.0,0,0,No
+B0409,28,Salaried - Non-IT,5-10 LPA,<2 L,35 L,6-12 months,Self-use,Bengaluru,Sarjapur Road,Apartment,1 BHK,ev charging,2.0,2,1,No
+B0410,24,Salaried - IT,5-10 LPA,<2 L,34 L,6-12 months,Self-use,Hyderabad,Flexible,Builder Floor,1 BHK,,3.0,0,1,No
+B0411,23,Salaried - Non-IT,<5 LPA,<2 L,25 L,12+ months,Both,Bengaluru,Flexible,Apartment,1 BHK,gym;Swimming Pool;wfh space,2.0,1,0,No
+B0412,24,Salaried - IT,5-10 LPA,10-20 L,25 L,6-12 months,Both,Hyderabad,Miyapur,Apartment,1 BHK,pet friendly,1.0,0,0,No
+B0413,22,Freelancer / Gig,5-10 LPA,5-10 L,40 L,Not sure,Investment,Gurugram,Flexible,Apartment,1 BHK,,1.0,1,1,No
+B0414,23,Startup / Entrepreneur,5-10 LPA,5-10 L,26 L,3-6 months,Self-use,Bengaluru,Sarjapur Road,Apartment,1 BHK,Co-working;wfh space,1.0,1,0,No
+B0415,27,Salaried - Non-IT,15-25 LPA,20+ L,53 L,3-6 months,Both,Hyderabad,Gachibowli,Apartment,2 BHK,,5.0,6,3,No
+B0416,26,Freelancer / Gig,5-10 LPA,2-5 L,35 L,12+ months,Both,Gurugram,Dwarka Expressway,Apartment,1 BHK,work from home room;pool;EV Charging,0.0,0,0,No
+B0417,28,Salaried - IT,25+ LPA,10-20 L,1.39 Cr,6-12 months,Investment,Mumbai,Flexible,Apartment,3 BHK,co working,1.0,0,0,No
+B0418,25,Salaried - IT,10-15 LPA,20+ L,58 L,6-12 Months,Investment,Gurugram,Flexible,Apartment,2 BHK,Pet Friendly;EV Charging;Swimming Pool;Co-working,3.0,0,0,Yes
+B0419,26,Freelancer / Gig,<5 LPA,,25 L,12+ months,Self-use,Noida,Sector 150,Apartment,1 BHK,Co-working;Fitness Centre,3.0,1,0,No
+B0420,29,Startup / Entrepreneur,10-15 LPA,20+ L,69 L,3-6 months,Self-use,Mumbai,Flexible,Apartment,2 BHK,coworking,2.0,1,0,No
+B0421,23,Salaried - Non-IT,<5 LPA,<2 L,25 L,Not sure,Self-use,Pune,Flexible,Apartment,1 BHK,pet friendly;pool;Green area,0.0,0,0,No
+B0422,27,Salaried - IT,15-25 LPA,20+ L,95 L,6-12 months,Both,Pune,Hinjewadi,Builder Floor,2 BHK,,2.0,2,0,No
+B0423,22,Salaried - Non-IT,5-10 LPA,10-20 L,36 L,3-6 months,Self-use,Hyderabad,Kokapet,Apartment,1 BHK,Clubhouse,2.0,2,1,Yes
+B0424,23,Freelancer / Gig,15-25 LPA,10-20 L,115 L,12+ months,Both,Bengaluru,Flexible,Apartment,3 BHK,Co-working;Clubhouse;work from home room;pet friendly,1.0,2,0,No
+B0425,25,Salaried - IT,10-15 LPA,5-10 L,54 L,12+ months,Both,Gurugram,Dwarka Expressway,Builder Floor,2 BHK,work from home room,0.0,0,1,No
+B0426,26,Freelancer / Gig,<5 LPA,2-5 L,25 L,0-3 months,Self-use,Mumbai,Mulund,Apartment,1 BHK,Co-working;Fitness Centre;pet friendly;WFH Space;club house,6.0,3,1,No
+B0427,23,Salaried - IT,10-15 LPA,20+ L,55 L,3-6 months,Both,Noida,Sector 137,Apartment,3 BHK,work from home room;gym,2.0,3,1,No
+B0428,25,Startup / Entrepreneur,<5 LPA,<2 L,25 L,Not sure,Self-use,Bengaluru,Sarjapur Road,Apartment,1 BHK,pool;Green Area;co working,1.0,1,0,No
+B0429,25,Startup / Entrepreneur,5-10 LPA,2-5 L,34 L,0-3 months,Both,Mumbai,Thane,Apartment,1 BHK,,3.0,4,1,Yes
+B0430,25,Early Career - Other,5-10 LPA,10-20 L,42 L,0-3 months,Self-use,Hyderabad,Kondapur,Apartment,1 BHK,work from home room;park;Pet Friendly;Fitness Centre;pool,6.0,2,1,Yes
+B0431,21,Salaried - IT,5-10 LPA,5-10 L,25 L,3-6 months,Both,Noida,Sector 137,Builder Floor,1 BHK,park;coworking;Clubhouse;WFH Space;Swimming Pool,7.0,2,1,Yes
+B0432,26,Salaried - IT,10-15 LPA,10-20 L,49 L,0-3 months,Self-use,Bengaluru,Electronic City,Apartment,1 BHK,Green Area,,2,1,Yes
+B0433,23,Startup / Entrepreneur,5-10 LPA,<2 L,25 L,12+ months,Both,Bengaluru,Flexible,Apartment,1 BHK,gym,1.0,1,1,No
+B0434,24,Early Career - Other,10-15 LPA,2-5 L,39 L,12+ months,Both,bangalore,Sarjapur Road,Apartment,1 BHK,Swimming Pool;park,0.0,0,1,No
+B0435,24,Salaried - IT,5-10 LPA,5-10 L,33 L,6-12 months,Both,Hyderabad,Miyapur,Flat,1 BHK,co working,0.0,2,1,Yes
+B0436,28,Startup / Entrepreneur,15-25 LPA,20+ L,1.10 Cr,12+ months,Self-use,Hyderabad,Kondapur,Apartment,3 BHK,wfh space;Fitness Centre;Clubhouse,1.0,0,0,No
+B0437,28,Salaried - Non-IT,<5 LPA,5-10 L,25 L,3-6 months,Self-use,Bengaluru,Sarjapur Road,Apartment,1 BHK,Green area,1.0,5,1,No
+B0438,26,Freelancer / Gig,10-15 LPA,5-10 L,52 L,3-6 months,Both,Noida,Flexible,Apartment,2 BHK,work from home room;Green Area;pool;gym;Co-working,10.0,3,0,No
+B0439,26,Early Career - Other,10-15 LPA,10-20 L,33 L,3-6 months,Investment,Gurugram,Flexible,Apartment,1 BHK,,2.0,2,1,No
+B0440,26,Salaried - IT,15-25 LPA,20+ L,63 L,3-6 months,Investment,Noida,Sector 94,Apartment,2 BHK,ev charging,3.0,0,0,No
+B0441,22,Salaried - Non-IT,5-10 LPA,10-20 L,31 L,12+ months,Both,Noida,Sector 94,,2 BHK,work from home room;ev charging;park;gym;pool,1.0,0,0,No
+B0442,24,Salaried - IT,15-25 LPA,20+ L,89 L,3-6 months,Self-use,Gurugram,Sohna Road,Apartment,2 BHK,ev charging;WFH Space;Green area,3.0,3,1,Yes
+B0443,22,Freelancer / Gig,<5 LPA,5-10 L,25 L,6-12 Months,Investment,bangalore,Whitefield,Apartment,1 BHK,,2.0,1,1,Yes
+B0444,27,Salaried - Non-IT,5-10 LPA,5-10 L,31 L,12+ months,Both,Hyderabad,Kokapet,Apartment,2bhk,Fitness Centre;WFH Space;Green Area;coworking;Clubhouse,1.0,0,0,No
+B0445,24,Salaried - IT,15-25 LPA,,110 L,3-6 months,Self-use,Hyderabad,Flexible,Apartment,3 BHK,coworking;gym;park,4.0,2,1,No
+B0446,29,Salaried - IT,10-15 LPA,2-5 L,33 L,Not sure,Both,Pune,Wakad,Apartment,1 BHK,pool;WFH Space;EV Charging;club house,0.0,1,1,No
+B0447,21,Salaried - IT,15-25 LPA,5-10 L,64 L,3-6 months,Self-use,Noida,Flexible,Apartment,2 BHK,work from home room,0.0,0,0,No
+B0448,22,Salaried - IT,15-25 LPA,5-10 L,93 L,Not sure,Both,Gurugram,Flexible,Apartment,2 BHK,wfh space;EV Charging;Swimming Pool;Fitness Centre;club house,0.0,1,1,No
+B0449,26,Salaried - IT,5-10 LPA,<2 L,25 L,,Both,Hyderabad,Miyapur,Apartment,1 BHK,Swimming Pool;coworking;gym,3.0,0,0,Yes
+B0450,21,Startup / Entrepreneur,10-15 LPA,5-10 L,35 L,Not sure,Investment,Noida,Sector 137,Apartment,1 BHK,Swimming Pool;coworking;WFH Space;Pet Friendly;Fitness Centre,1.0,1,0,No
+B0451,24,Early Career - Other,5-10 LPA,<2 L,31 L,6-12 months,Self-use,Gurgaon,Dwarka Expressway,Builder Floor,1 BHK,,2.0,3,1,No
+B0452,21,Salaried - Non-IT,5-10 LPA,<2 L,27 L,Not sure,Self-use,Gurugram,Flexible,Apartment,1 BHK,EV Charging,1.0,0,1,No
+B0453,23,Freelancer / Gig,5-10 LPA,2-5 L,35 L,0-3 months,Both,Bengaluru,Whitefield,Apartment,1 BHK,Clubhouse;pool,2.0,3,0,Yes
+B0454,24,Salaried - IT,25+ LPA,20+ L,1.50 Cr,12+ months,Investment,Pune,Wakad,Apartment,3 BHK,,0.0,1,0,No
+B0455,24,Early Career - Other,10-15 LPA,2-5 L,66 L,Not sure,Self-use,Pune,Flexible,,2 BHK,,0.0,1,0,No
+B0456,24,Freelancer / Gig,5-10 LPA,2-5 L,28 L,6-12 months,Self-use, BENGALURU,Flexible,Apartment,1 BHK,co working;Clubhouse;work from home room;ev charging;Pet Friendly,1.0,1,1,Yes
+B0457,26,Salaried - IT,5-10 LPA,5-10 L,29 L,6-12 months,Self-use,Hyderabad,Kokapet,Apartment,1 BHK,,0.0,1,1,Yes
+B0458,29,Early Career - Other,5-10 LPA,10-20 L,27 L,6-12 months,Self-use,Pune,Wakad,Apartment,1 BHK,ev charging;Green area,2.0,1,0,No
+B0459,22,Salaried - Non-IT,<5 LPA,<2 L,25 L,12+ months,Investment,Noida,Flexible,Apartment,1 BHK,Green area,1.0,1,2,No
+B0460,25,Startup / Entrepreneur,<5 LPA,2-5 L,25 L,0-3 Months,Self-use, BENGALURU,Flexible,Apartment,1 BHK,Pet Friendly;pool;Fitness Centre,6.0,2,1,No
+B0461,21,Freelancer / Gig,15-25 LPA,,1.07 Cr,6-12 months,Self-use,Bengaluru,Hebbal,Apartment,,Fitness Centre;co working;Pet Friendly;EV Charging,1.0,2,0,Yes
+B0462,26,Startup / Entrepreneur,5-10 LPA,<2 L,25 L,12+ months,Investment,Bengaluru,Electronic City,Apartment,1bhk,,0.0,0,0,Yes
+B0463,23,Salaried - Non-IT,5-10 LPA,10-20 L,32 L,0-3 months,Self-use,,Whitefield,Apartment,1 BHK,Pet Friendly;Swimming Pool;ev charging;Gym,2.0,4,1,Yes
+B0464,28,Early Career - Other,10-15 LPA,5-10 L,72 L,12+ months,Self-use,Noida,Sector 150,Apartment,2 BHK,Green area;work from home room,2.0,1,1,Yes
+B0465,27,Freelancer / Gig,5-10 LPA,<2 L,37 L,Not sure,Investment,Mumbai,Kandivali,Builder Floor,1 BHK,,1.0,0,1,No
+B0466,24,Salaried - Non-IT,<5 LPA,<2 L,25 L,Not sure,Self-use,Gurugram,New Gurgaon,Apartment,1 BHK,,0.0,0,1,No
+B0467,24,Early Career - Other,<5 LPA,<2 L,25 L,Not sure,Both,,Mulund,Apartment,1 BHK,Pet Friendly;ev charging;park;wfh space;Gym,0.0,1,0,No
+B0468,22,Salaried - IT,15-25 LPA,20+ L,1.16 Cr,0-3 months,Both,Noida,Sector 94,Builder Floor,3 BHK,Pet Friendly,,4,0,Yes
+B0469,23,Freelancer / Gig,5-10 LPA,2-5 L,25 L,12+ months,Both,Bengaluru,Sarjapur Road,Apartment,1 BHK,WFH Space;coworking;gym,1.0,0,0,No
+B0470,21,Salaried - Non-IT,10-15 LPA,10-20 L,31 L,6-12 months,Both,Gurugram,New Gurgaon,Apartment,1 BHK,Pet Friendly;Green Area;wfh space;gym;Swimming Pool,3.0,2,1,No
+B0471,23,Freelancer / Gig,-3 LPA,10-20 L,30 L,Not sure,Investment,Pune,Flexible,Apartment,1 BHK,,1.0,1,0,No
+B0472,27,Salaried - Non-IT,<5 LPA,5-10 L,25 L,3-6 months,Self-use,Bengaluru,Hebbal,Apartment,1 BHK,Clubhouse;pool;Fitness Centre,1.0,1,3,No
+B0473,22,Salaried - Non-IT,<5 LPA,2-5 L,25 L,3-6 months,Both,Gurugram,Flexible,Builder Floor,1 BHK,gym;club house;Green Area;EV Charging;Swimming Pool,3.0,1,0,No
+B0474,26,Salaried - IT,25+ LPA,20+ L,85 L,6-12 months,Both,Mumbai,Navi Mumbai,Builder Floor,2 BHK,Swimming Pool;WFH Space;Green area;Fitness Centre;club house,2.0,3,0,Yes
+B0475,24,Salaried - Non-IT,<5 LPA,<2 L,25 L,Not sure,Self-use,Mumbai,Flexible,Apartment,1 BHK,,2.0,0,1,No
+B0476,22,Salaried - IT,5-10 LPA,<2 L,42 L,0-3 months,Investment,Pune,Wakad,Apartment,1bhk,pool;coworking;park,2.0,3,0,No
+B0477,25,Salaried - IT,15-25 LPA,5-10 L,66 L,3-6 months,Self-use,Gurugram,Dwarka Expressway,Apartment,2 BHK,WFH Space,4.0,4,1,Yes
+B0478,21,Salaried - IT,10-15 LPA,5-10 L,44 L,12+ months,Self-use,Pune,Wakad,Apartment,1 BHK,Clubhouse;wfh space;EV Charging,0.0,0,0,No
+B0479,25,Salaried - IT,10-15 LPA,2-5 L,40 L,Not sure,Investment,Gurugram,Sohna Road,Apartment,1bhk,Fitness Centre;coworking,0.0,0,0,No
+B0480,27,Startup / Entrepreneur,5-10 LPA,10-20 L,37 L,3-6 months,Both,Bengaluru,Hebbal,Apartment,1 BHK,WFH Space;Co-working;ev charging;Fitness Centre,7.0,1,1,Yes
+B0481,29,Salaried - Non-IT,<5 LPA,,25 L,3-6 months,Both,Gurugram,Sector 65,Apartment,1 BHK,,5.0,2,1,No
+B0482,26,Salaried - IT,<5 LPA,2-5 L,25 L,6-12 months,Investment,Noida,Sector 150,Apartment,2 BHK,WFH Space;Green area,2.0,0,1,No
+B0483,28,Early Career - Other,<5 LPA,5-10 L,25 L,3-6 months,Both,Bengaluru,Whitefield,Apartment,1 BHK,Green area;pet friendly;Fitness Centre;WFH Space;club house,2.0,1,3,No
+B0484,23,Salaried - IT,5-10 LPA,<2 L,40 L,,Self-use,Noida,Greater Noida West,Apartment,2 BHK,Gym;wfh space;Green area;coworking;Clubhouse,0.0,2,0,No
+B0485,23,Salaried - IT,5-10 LPA,2-5 L,25 L,0-3 months,Self-use,Bengaluru,Hebbal,Apartment,1 BHK,Clubhouse;ev charging,1.0,0,1,Yes
+B0486,29,Early Career - Other,10-15 LPA,20+ L,49 L,0-3 months,Both,Mumbai,Thane,Apartment,1 BHK,,2.0,0,0,Yes
+B0487,25,Startup / Entrepreneur,15-25 LPA,10-20 L,62 L,,Self-use,Gurugram,Flexible,Apartment,2bhk,pet friendly;gym;wfh space;Green area,4.0,2,0,No
+B0488,23,Freelancer / Gig,10-15 LPA,10-20 L,50 L,6-12 months,Both,Bengaluru,Sarjapur Road,Apartment,2 BHK,Green area;EV Charging;club house,1.0,1,1,Yes
+B0489,25,Early Career - Other,5-10 LPA,,42 L,12+ Months,Self-use,Gurugram,New Gurgaon,Apartment,1 BHK,Clubhouse;Gym;Swimming Pool,0.0,1,1,Yes
+B0490,23,Early Career - Other,25+ LPA,10-20 L,1.75 Cr,3-6 months,Self-use,Pune,Hinjewadi,Apartment,3 BHK,ev charging;wfh space;co working,1.0,3,1,No
+B0491,24,Salaried - Non-IT,<5 LPA,<2 L,25 L,6-12 Months,Self-use,Noida,Greater Noida West,Apartment,1 BHK,EV Charging;gym;Green area;pool,5.0,2,2,No
+B0492,23,Salaried - Non-IT,10-15 LPA,20+ L,60 L,0-3 months,Investment,Pune,Hinjewadi,Apartment,2 BHK,Gym;wfh space,3.0,2,1,Yes
+B0493,27,Salaried - IT,10-15 LPA,5-10 L,50 L,12+ Months,Self-use,Mumbai,Thane,Apartment,2bhk,Clubhouse;Co-working;park,1.0,0,1,No
+B0494,24,Salaried - IT,10-15 LPA,10-20 L,49 L,0-3 months,Self-use,Bengaluru,Hebbal,Builder Floor,,pool;WFH Space,3.0,2,0,No
+B0495,25,Salaried - Non-IT,15-25 LPA,10-20 L,113 L,6-12 months,Self-use,Mumbai,Thane,Apartment,3 BHK,pet friendly,2.0,1,1,Yes
+B0496,26,Startup / Entrepreneur,10-15 LPA,20+ L,73 L,3-6 months,Self-use,Pune,Wakad,Apartment,3 BHK,co working;Green area,1.0,0,1,No
+B0497,23,Early Career - Other,<5 LPA,<2 L,25 L,12+ months,Investment,Mumbai,Mulund,Apartment,1 BHK,Fitness Centre;Clubhouse,0.0,0,0,No
+B0498,22,Startup / Entrepreneur,5-10 LPA,10-20 L,25 L,6-12 months,Self-use,Hyderabad,Flexible,Builder Floor,1 BHK,gym;Clubhouse,4.0,2,1,No
+B0499,25,Early Career - Other,5-10 LPA,<2 L,28 L,Not sure,Self-use,Hyderabad,Kondapur,Flat,1 BHK,pet friendly;EV Charging,0.0,0,0,No
+B0500,22,Salaried - IT,15-25 LPA,10-20 L,1.06 Cr,Not Sure,Self-use,Noida,Flexible,Apartment,1 BHK,Green area;Swimming Pool;Fitness Centre;co working,0.0,0,0,No
+B0501,23,Salaried - Non-IT,10-15 LPA,10-20 L,38 L,12+ months,Self-use,Gurugram,New Gurgaon,Apartment,1 BHK,,1.0,1,0,No
+B0502,23,Early Career - Other,5-10 LPA,2-5 L,31 L,3-6 months,Self-use,Bengaluru,Sarjapur Road,Apartment,,club house;wfh space,,2,0,No
+B0503,21,Freelancer / Gig,<5 LPA,<2 L,25 L,Not sure,Both,Gurugram,Sohna Road,Apartment,1 BHK,Clubhouse;Fitness Centre;work from home room;Co-working,2.0,2,0,No
+B0504,22,Freelancer / Gig,5-10 LPA,10-20 L,32 L,3-6 months,Both,Noida,Sector 150,Apartment,1 BHK,Gym;work from home room;Co-working,0.0,2,0,No
+B0505,23,Salaried - Non-IT,10-15 LPA,,70 L,12+ months,Self-use,Hyderabad,Kondapur,Apartment,2 BHK,work from home room;Swimming Pool,0.0,0,0,Yes
+B0506,26,Salaried - IT,10-15 LPA,2-5 L,49 L,Not sure,Self-use,Hyderabad,Gachibowli,Apartment,1 BHK,pet friendly;co working,0.0,2,0,No
+B0507,26,Salaried - Non-IT,<5 LPA,2-5 L,25 L,3-6 months,Self-use,Pune,Baner,Flat,1 BHK,Pet Friendly,6.0,4,1,Yes
+B0508,24,Freelancer / Gig,,5-10 L,30 L,12+ months,Self-use,Mumbai,Mulund,Apartment,1 BHK,Swimming Pool;pet friendly;WFH Space;club house,1.0,0,0,No
+B0509,25,Salaried - Non-IT,5-10 LPA,10-20 L,28 L,3-6 months,Self-use,Pune,Wakad,Apartment,1bhk,,2.0,2,1,Yes
+B0510,24,Startup / Entrepreneur,5-10 LPA,5-10 L,25 L,12+ months,Both,Hyderabad,Miyapur,Apartment,1 BHK,,4.0,2,0,No
+B0511,25,Salaried - IT,25+ LPA,20+ L,1.43 Cr,6-12 months,Both,Gurugram,Dwarka Expressway,Apartment,3 BHK,pet friendly;Fitness Centre,2.0,2,1,Yes
+B0512,25,Early Career - Other,15-25 LPA,10-20 L,60 L,3-6 months,Investment,Hyderabad,Miyapur,Apartment,2 BHK,,4.0,4,0,No
+B0513,25,Salaried - Non-IT,5-10 LPA,<2 L,25 L,12+ months,Both,Gurugram,Flexible,Apartment,2 BHK,Green area;ev charging;Clubhouse,0.0,2,1,No
+B0514,25,Salaried - IT,10-15 LPA,20+ L,62 L,0-3 months,Self-use,Hyderabad,Kokapet,Apartment,1 BHK,club house;park,4.0,2,0,Yes
+B0515,25,Salaried - Non-IT,10-15 LPA,5-10 L,55 L,0-3 months,Self-use,Pune,Flexible,Apartment,2 BHK,wfh space;Clubhouse;gym;EV Charging,6.0,1,0,No
+B0516,24,Salaried - IT,,<2 L,35 L,6-12 months,Self-use,Bengaluru,Hebbal,Builder Floor,2 BHK,wfh space,1.0,5,0,No
+B0517,23,Early Career - Other,5-10 LPA,2-5 L,30 L,Not sure,Self-use,bangalore,Whitefield,Apartment,1 BHK,Swimming Pool;park,0.0,0,0,No
+B0518,26,Startup / Entrepreneur,10-15 LPA,2-5 L,75 L,Not sure,Investment,Noida,Sector 137,Builder Floor,1 BHK,Pet Friendly,1.0,1,1,No
+B0519,27,Early Career - Other,15-25 LPA,10-20 L,1.14 Cr,6-12 months,Both,Noida,Sector 94,,3 BHK,club house;pet friendly;Fitness Centre;Green area,4.0,0,0,No
+B0520,25,Early Career - Other,15-25 LPA,,56 L,Not sure,Self-use,Gurugram,Dwarka Expressway,Builder Floor,2bhk,club house;gym;work from home room;pet friendly,1.0,0,0,No
+B0521,25,Salaried - IT,<5 LPA,<2 L,25 L,6-12 months,Self-use,Bengaluru,Electronic City,Apartment,1 BHK,,3.0,0,0,No
+B0522,21,Freelancer / Gig,15-25 LPA,20+ L,52 L,6-12 months,Both,Bengaluru,Hebbal,Apartment,1 BHK,Swimming Pool;WFH Space,3.0,2,2,Yes
+B0523,23,Startup / Entrepreneur,5-10 LPA,2-5 L,40 L,3-6 months,Self-use,Gurugram,Dwarka Expressway,Apartment,1 BHK,Green Area;WFH Space;pet friendly;Fitness Centre;coworking,3.0,3,0,Yes
+B0524,25,Salaried - IT,5-10 LPA,10-20 L,45 L,0-3 months,Self-use,Gurugram,Sohna Road,Apartment,1 BHK,,3.0,6,3,Yes
+B0525,27,Early Career - Other,<5 LPA,5-10 L,25 L,3-6 months,Self-use,Pune,Wakad,Apartment,1 BHK,Green area;work from home room;EV Charging,5.0,1,1,No
+B0526,27,Salaried - IT,5-10 LPA,<2 L,36 L,6-12 months,Self-use,Bengaluru,Electronic City,Apartment,1 BHK,WFH Space;Co-working;ev charging,1.0,1,1,No
+B0527,22,Early Career - Other,25+ LPA,10-20 L,1.36 Cr,12+ months,Both,Pune,Hinjewadi,Apartment,3 BHK,,0.0,1,0,No
+B0528,26,Salaried - Non-IT,5-10 LPA,5-10 L,38 L,Not sure,Self-use,Gurugram,Sohna Road,Apartment,1 BHK,Pet Friendly;Green area;EV Charging;Fitness Centre;WFH Space,0.0,1,0,No
+B0529,27,Early Career - Other,15-25 LPA,10-20 L,96 L,3-6 months,Both,Noida,Flexible,Builder Floor,1 BHK,pool,3.0,2,0,No
+B0530,27,Salaried - IT,5-10 LPA,2-5 L,37 L,3-6 months,Self-use,Bengaluru,Sarjapur Road,Builder Floor,1 BHK,Clubhouse;pool,3.0,2,1,Yes
+B0531,25,Salaried - IT,5-10 LPA,<2 L,28 L,Not sure,Self-use,Pune,Flexible,Builder Floor,1 BHK,Green area,0.0,1,0,No
+B0532,26,Freelancer / Gig,10-15 LPA,20+ L,31 L,0-3 months,Both,Hyderabad,Kondapur,Apartment,1 BHK,coworking;work from home room,1.0,0,2,No
+B0533,29,Salaried - IT,10-15 LPA,5-10 L,61 L,6-12 months,Self-use,Bengaluru,Hebbal,Builder Floor,2 BHK,WFH Space,1.0,1,0,No
+B0534,23,Early Career - Other,15-25 LPA,10-20 L,72 L,Not sure,Self-use,Hyderabad,Flexible,Apartment,2 BHK,EV Charging;pet friendly;club house;pool,2.0,0,0,No
+B0535,21,Salaried - Non-IT,<5 LPA,<2 L,25 L,6-12 months,Self-use,Noida,Sector 137,Apartment,1 BHK,EV Charging;pet friendly;gym;park;Swimming Pool,0.0,1,0,Yes
+B0536,27,Freelancer / Gig,25+ LPA,10-20 L,1.36 Cr,6-12 months,Both,Pune,Flexible,Builder Floor,2 BHK,WFH Space,2.0,2,0,No
+B0537,25,Early Career - Other,10-15 LPA,2-5 L,63 L,12+ Months,Self-use,,Kandivali,Apartment,2 BHK,work from home room;pool;co working;Pet Friendly;EV Charging,1.0,2,1,No
+B0538,21,Salaried - IT,10-15 LPA,10-20 L,58 L,0-3 months,Self-use,Noida,Flexible,Apartment,2 BHK,,3.0,0,1,No
+B0539,27,Salaried - IT,<5 LPA,5-10 L,25 L,Not sure,Self-use,Bengaluru,Sarjapur Road,Apartment,,work from home room;gym;Pet Friendly,1.0,0,0,No
+B0540,23,Startup / Entrepreneur,5-10 LPA,<2 L,28 L,6-12 months,Both,Bengaluru,Hebbal,Apartment,1 BHK,wfh space,2.0,1,1,No
+B0541,26,Salaried - Non-IT,<5 LPA,2-5 L,25 L,12+ months,Investment,Noida,Flexible,Apartment,1 BHK,park;coworking;pool,1.0,0,0,No
+B0542,22,Salaried - IT,10-15 LPA,5-10 L,56 L,12+ months,Self-use,Pune,Wakad,Apartment,1 BHK,Fitness Centre;Clubhouse;pool,0.0,1,0,No
+B0543,24,Salaried - IT,15-25 LPA,20+ L,56 L,12+ months,Both,Noida,Greater Noida West,Apartment,2 BHK,pet friendly;work from home room,1.0,0,1,No
+B0544,25,Early Career - Other,5-10 LPA,<2 L,37 L,,Both,Gurugram,Dwarka Expressway,Apartment,1 BHK,Fitness Centre,1.0,0,0,No
+B0545,28,Salaried - IT,5-10 LPA,<2 L,33 L,6-12 months,Self-use,Bengaluru,Electronic City,Apartment,1 BHK,WFH Space;Clubhouse,0.0,4,0,No
+B0546,24,Salaried - IT,15-25 LPA,20+ L,83 L,0-3 months,Self-use,Bengaluru,Flexible,Apartment,2 BHK,wfh space;coworking;Green Area;ev charging,3.0,2,1,Yes
+B0547,24,Salaried - IT,25+ LPA,20+ L,90 L,3-6 months,Self-use,Bengaluru,Sarjapur Road,Apartment,1 BHK,pool;WFH Space;coworking,3.0,3,0,Yes
+B0548,23,Startup / Entrepreneur,10-15 LPA,2-5 L,62 L,12+ months,Self-use,Hyderabad,Flexible,Apartment,2 BHK,Swimming Pool;wfh space;Clubhouse;ev charging;co working,3.0,0,0,No
+B0549,22,Salaried - Non-IT,-3 LPA,10-20 L,34 L,6-12 months,Both,Gurugram,Flexible,Apartment,1 BHK,park;Gym;WFH Space;pet friendly,2.0,2,0,No
+B0550,23,Freelancer / Gig,5-10 LPA,<2 L,41 L,12+ months,Self-use,Pune,Hinjewadi,Apartment,1 BHK,Clubhouse;Co-working;Green Area;Fitness Centre;pool,2.0,2,2,Yes
+B0551,21,Early Career - Other,5-10 LPA,5-10 L,33 L,0-3 months,Both,Hyderabad,Gachibowli,Apartment,1 BHK,pet friendly;Co-working;Green Area;Gym;club house,5.0,4,1,Yes
+B0552,24,Salaried - IT,15-25 LPA,20+ L,62 L,12+ months,Both,Bengaluru,Hebbal,Apartment,2 BHK,Green area;Gym;EV Charging;Pet Friendly;Swimming Pool,2.0,0,0,No
+B0553,24,Freelancer / Gig,5-10 LPA,5-10 L,33 L,Not sure,Self-use,Bengaluru,Electronic City,Apartment,1 BHK,Pet Friendly,0.0,1,1,No
+B0554,29,Salaried - Non-IT,<5 LPA,,25 L,3-6 months,Self-use,Hyderabad,Kondapur,Apartment,1 BHK,pet friendly,5.0,3,3,Yes
+B0555,24,Early Career - Other,5-10 LPA,<2 L,35 L,6-12 months,Self-use,Bengaluru,Hebbal,Apartment,1 BHK,,1.0,0,0,No
+B0556,25,Salaried - IT,10-15 LPA,10-20 L,53 L,6-12 months,Investment,Gurugram,Sohna Road,Apartment,2 BHK,park;Clubhouse;wfh space;Co-working,3.0,0,1,No
+B0557,28,Salaried - IT,10-15 LPA,20+ L,57 L,0-3 months,Self-use,Gurugram,New Gurgaon,Apartment,2 BHK,Fitness Centre;coworking;work from home room;park,2.0,5,0,Yes
+B0558,21,Early Career - Other,5-10 LPA,,25 L,Not sure,Investment,Mumbai,Thane,Apartment,1 BHK,pet friendly;ev charging;gym;pool,2.0,0,1,No
+B0559,27,Salaried - Non-IT,5-10 LPA,<2 L,28 L,6-12 months,Self-use,Mumbai,Flexible,Apartment,1 BHK,park;EV Charging;Co-working,2.0,0,1,No
+B0560,28,Salaried - Non-IT,<5 LPA,<2 L,25 L,6-12 months,Both,Pune,Flexible,Apartment,1 BHK,,1.0,2,1,No
+B0561,23,Freelancer / Gig,5-10 LPA,<2 L,43 L,6-12 months,Both,Mumbai,Kandivali,Builder Floor,1 BHK,Fitness Centre;wfh space;pool;co working,3.0,4,0,Yes
+B0562,22,Salaried - IT,15-25 LPA,20+ L,50 L,0-3 months,Both,Pune,Baner,Apartment,1 BHK,pet friendly;club house;Fitness Centre,4.0,2,0,Yes
+B0563,52,Salaried - IT,10-15 LPA,5-10 L,71 L,6-12 months,Investment,Pune,Wakad,Apartment,2 BHK,co working;Clubhouse;ev charging;pet friendly;work from home room,2.0,3,0,No
+B0564,22,Salaried - Non-IT,5-10 LPA,<2 L,42 L,3-6 months,Self-use,Gurugram,Sector 65,Apartment,1 BHK,Gym;EV Charging;wfh space,3.0,4,0,No
+B0565,29,Salaried - IT,15-25 LPA,10-20 L,1.17 Cr,6-12 months,Both,Bengaluru,Whitefield,Apartment,3 BHK,Fitness Centre;EV Charging;Clubhouse;Co-working,3.0,1,0,No
+B0566,26,Salaried - IT,5-10 LPA,<2 L,39 L,12+ months,Both,Bengaluru,Hebbal,Apartment,1 BHK,Co-working;work from home room;Green area,2.0,0,0,No
+B0567,25,Salaried - IT,10-15 LPA,20+ L,62 L,3-6 months,Self-use,Bengaluru,Hebbal,Flat,2bhk,Gym;EV Charging;Pet Friendly,3.0,3,0,No
+B0568,27,Salaried - IT,15-25 LPA,10-20 L,106 L,Not sure,Self-use,Hyderabad,Flexible,Apartment,1 BHK,Gym;pet friendly;pool,3.0,0,1,No
+B0569,27,Startup / Entrepreneur,10-15 LPA,5-10 L,72 L,Not sure,Investment,Bengaluru,Electronic City,Apartment,2 BHK,club house;park;Gym;pet friendly,1.0,2,0,No
+B0570,21,Salaried - IT,10-15 LPA,5-10 L,33 L,0-3 months,Self-use,Hyderabad,Kokapet,Apartment,1 BHK,WFH Space;Green Area;pool;ev charging,4.0,1,0,No
+B0571,26,Startup / Entrepreneur,<5 LPA,2-5 L,25 L,12+ months,Investment,Gurugram,New Gurgaon,Apartment,1bhk,Gym;pool;coworking;pet friendly,1.0,0,0,No
+B0572,24,Startup / Entrepreneur,10-15 LPA,2-5 L,56 L,Not sure,Self-use,Noida,Greater Noida West,Apartment,2 BHK,Clubhouse,0.0,1,0,No
+B0573,22,Salaried - Non-IT,5-10 LPA,,38 L,6-12 months,Self-use,Bengaluru,Sarjapur Road,Apartment,1 BHK,Fitness Centre;Green Area;Pet Friendly;Clubhouse,3.0,2,1,No
+B0574,24,Early Career - Other,5-10 LPA,2-5 L,43 L,3-6 months,Self-use,Bengaluru,Flexible,Apartment,1 BHK,Fitness Centre;Pet Friendly;Swimming Pool;Co-working;Green Area,1.0,1,1,Yes
+B0575,27,Early Career - Other,10-15 LPA,10-20 L,67 L,3-6 months,Self-use,Bengaluru,Electronic City,Apartment,2 BHK,Green Area;wfh space,2.0,3,1,No
+B0576,22,Startup / Entrepreneur,5-10 LPA,10-20 L,38 L,0-3 months,Self-use,Noida,Greater Noida West,Apartment,,gym;work from home room;pet friendly,1.0,2,2,Yes
+B0577,26,Freelancer / Gig,5-10 LPA,2-5 L,30 L,0-3 months,Investment,Bengaluru,Electronic City,Apartment,1 BHK,wfh space;park,4.0,1,1,No
+B0578,27,Salaried - Non-IT,5-10 LPA,2-5 L,42 L,6-12 months,Self-use,Pune,Hinjewadi,Apartment,1 BHK,,1.0,4,0,No
+B0579,29,Salaried - IT,15-25 LPA,10-20 L,57 L,Not sure,Self-use,Gurugram,New Gurgaon,Apartment,2 BHK,EV Charging,0.0,0,0,No
+B0580,24,Freelancer / Gig,15-25 LPA,20+ L,64 L,Not sure,Self-use,Noida,Greater Noida West,Builder Floor,2 BHK,Pet Friendly;pool;wfh space;park;coworking,3.0,0,1,No
+B0581,29,Salaried - Non-IT,5-10 LPA,<2 L,39 L,12+ months,Investment,Noida,Sector 137,Apartment,1 BHK,Swimming Pool;club house;pet friendly;Gym,1.0,0,0,No
+B0582,25,Salaried - Non-IT,15-25 LPA,5-10 L,65 L,6-12 months,Self-use,Gurugram,Sohna Road,Apartment,2 BHK,Green Area;pool;wfh space;co working;EV Charging,,2,0,No
+B0583,22,Salaried - IT,,2-5 L,64 L,12+ months,Self-use,Mumbai,Mulund,Apartment,1 BHK,,1.0,0,0,Yes
+B0584,26,Early Career - Other,15-25 LPA,20+ L,56 L,12+ months,Both,Noida,Sector 150,Apartment,2 BHK,Fitness Centre,2.0,0,1,No
+B0585,24,Freelancer / Gig,5-10 LPA,5-10 L,25 L,6-12 months,Both,Hyderabad,Flexible,Apartment,,,1.0,2,0,No
+B0586,23,Salaried - Non-IT,10-15 LPA,5-10 L,49 L,12+ months,Self-use,Bengaluru,Hebbal,Apartment,2 BHK,park;Gym;pool;EV Charging;Pet Friendly,0.0,0,0,No
+B0587,29,Salaried - IT,5-10 LPA,<2 L,25 L,6-12 months,Investment,Gurugram,Dwarka Expressway,Apartment,1 BHK,Co-working;Green area;work from home room;Swimming Pool;ev charging,2.0,3,1,No
+B0588,21,Salaried - Non-IT,5-10 LPA,10-20 L,30 L,0-3 months,Both,Gurugram,Flexible,Apartment,,,6.0,3,0,No
+B0589,24,Salaried - IT,5-10 LPA,5-10 L,36 L,12+ months,Self-use,Hyderabad,Miyapur,Apartment,1 BHK,wfh space;Green Area;pet friendly;co working;Swimming Pool,2.0,0,0,No
+B0590,26,Salaried - IT,10-15 LPA,10-20 L,38 L,12+ Months,Self-use,Pune,Flexible,Apartment,1 BHK,Clubhouse;Gym;wfh space,0.0,1,0,No
+B0591,25,Salaried - IT,15-25 LPA,10-20 L,76 L,6-12 months,Self-use,Bengaluru,Electronic City,Apartment,3bhk,Pet Friendly;Gym;Clubhouse;pool,3.0,0,0,No
+B0592,22,Startup / Entrepreneur,10-15 LPA,10-20 L,68 L,0-3 months,Both,Pune,Baner,Apartment,2 BHK,club house,1.0,2,0,No
+B0593,28,Salaried - IT,10-15 LPA,20+ L,73 L,3-6 months,Self-use,Mumbai,Mulund,Apartment,2 BHK,Fitness Centre;Clubhouse,3.0,1,0,No
+B0594,22,Salaried - IT,-3 LPA,,40 L,Not sure,Self-use,Pune,Flexible,Apartment,1 BHK,Gym;Pet Friendly;park,2.0,0,0,No
+B0595,23,Freelancer / Gig,<5 LPA,<2 L,25 L,Not sure,Self-use,Bengaluru,Flexible,Apartment,1 BHK,EV Charging,1.0,0,0,No
+B0596,25,Salaried - Non-IT,5-10 LPA,<2 L,40 L,0-3 months,Both,Hyderabad,Kondapur,Apartment,1bhk,wfh space,4.0,3,1,Yes
+B0597,24,Freelancer / Gig,5-10 LPA,10-20 L,40 L,12+ months,Self-use,Bengaluru,Electronic City,Apartment,1 BHK,WFH Space;Pet Friendly;Co-working,2.0,1,0,No
+B0598,28,Freelancer / Gig,10-15 LPA,5-10 L,66 L,6-12 months,Both,bangalore,Flexible,Apartment,2 BHK,wfh space,1.0,0,1,Yes
+B0599,25,Salaried - Non-IT,<5 LPA,2-5 L,25 L,0-3 months,Self-use,Bengaluru,Hebbal,Apartment,1 BHK,park;Pet Friendly;Fitness Centre;Clubhouse,3.0,7,0,No
+B0600,27,Salaried - Non-IT,10-15 LPA,20+ L,33 L,0-3 months,Both,Gurugram,Sector 65,Apartment,1 BHK,,3.0,2,1,Yes
+B0450,21,Startup / Entrepreneur,10-15 LPA,5-10 L,35 L,Not sure,Investment,Noida,Sector 137,Apartment,1 BHK,Swimming Pool;coworking;WFH Space;Pet Friendly;Fitness Centre,1.0,1,0,No
+B0142,27,Salaried - IT,5-10 LPA,10-20 L,37 L,6-12 months,Both,Gurugram,Flexible,Apartment,1 BHK,WFH Space;co working;pet friendly;gym,4.0,2,2,No
+B0132,25,Freelancer / Gig,5-10 LPA,<2 L,32 L,6-12 months,Both,Bengaluru,Sarjapur Road,Apartment,1 BHK,Green area;Fitness Centre;work from home room,2.0,2,0,No
+B0312,25,Salaried - Non-IT,5-10 LPA,<2 L,25 L,12+ months,Self-use,Pune,Flexible,Apartment,1 BHK,gym;pet friendly;pool;Green area;ev charging,0.0,2,0,No
+B0177,22,Salaried - IT,,10-20 L,36 L,0-3 months,Both,Pune,Kharadi,Apartment,1 BHK,pet friendly;wfh space,5.0,2,1,No
+B0135,24,Salaried - IT,10-15 LPA,2-5 L,73 L,12+ months,Investment,Hyderabad,Miyapur,Apartment,2 BHK,WFH Space,0.0,1,0,No
+B0552,24,Salaried - IT,15-25 LPA,20+ L,62 L,12+ months,Both,Bengaluru,Hebbal,Apartment,2 BHK,Green area;Gym;EV Charging;Pet Friendly;Swimming Pool,2.0,0,0,No
+B0153,28,Salaried - Non-IT,15-25 LPA,5-10 L,60 L,12+ months,Investment,Gurugram,Flexible,Apartment,2 BHK,Fitness Centre,0.0,1,0,No
+B0124,22,Freelancer / Gig,5-10 LPA,10-20 L,42 L,6-12 months,Self-use,Bengaluru,Electronic City,Apartment,1 BHK,,3.0,0,0,Yes
+B0318,24,Salaried - Non-IT,25+ LPA,10-20 L,104 L,12+ months,Self-use,Bengaluru,Flexible,Apartment,2 BHK,Green area,1.0,2,0,No
+B0516,24,Salaried - IT,,<2 L,35 L,6-12 months,Self-use,Bengaluru,Hebbal,Builder Floor,2 BHK,wfh space,1.0,5,0,No
+B0068,22,Salaried - Non-IT,10-15 LPA,2-5 L,68 L,12+ months,Both,Pune,Wakad,Apartment,2 BHK,,2.0,1,0,No
+B0520,25,Early Career - Other,15-25 LPA,,56 L,Not sure,Self-use,Gurugram,Dwarka Expressway,Builder Floor,2bhk,club house;gym;work from home room;pet friendly,1.0,0,0,No
+B0066,22,Salaried - IT,10-15 LPA,2-5 L,33 L,6-12 months,Investment,Hyderabad,Miyapur,Builder Floor,1 BHK,Pet Friendly;work from home room,1.0,1,1,No
+B0397,24,Early Career - Other,25+ LPA,20+ L,1.62 Cr,6-12 months,Investment,Gurugram,Dwarka Expressway,Apartment,2 BHK,Gym;Swimming Pool,5.0,2,0,No
